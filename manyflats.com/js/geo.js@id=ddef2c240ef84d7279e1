@@ -1,0 +1,22 @@
+$(document).ready(function () {
+	document.querySelector("#localsearch").onchange = (e) => {
+		if (typeof navigator.geolocation != "undefined" && e.target.checked) {
+			navigator.geolocation.getCurrentPosition(granted);
+		}
+	};
+});
+
+function granted(position) {
+	$("#la").val(position.coords.latitude);
+	$("#lo").val(position.coords.longitude);
+
+	var href = $("a#near").attr("href");
+	$("#near").attr(
+		"href",
+		href +
+			"&la=" +
+			position.coords.latitude +
+			"&lo=" +
+			position.coords.longitude
+	);
+}

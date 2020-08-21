@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ÐÐµÐ´Ð²Ð¸Ð¶Ð¸Ð¼Ð¾ÑÑ‚ÑŒ, 2, Ð½Ðµ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ ÑÑ‚Ð°Ð¶ - ManyFlats</title>
+    <meta name="description" content="140541 объектов недвижимости, лучшие предложения по запросу ÐÐµÐ´Ð²Ð¸Ð¶Ð¸Ð¼Ð¾ÑÑ‚ÑŒ, 2, Ð½Ðµ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ ÑÑ‚Ð°Ð¶: Рига, Берлин, Ханау, Преили, Гробиня, Гера, Центр, Хэссен, Преили ун рай., Лиепая ун рай., Тхюринген, Торнкалнс, Шампетерис, Адлерсхоф, Волфганг, Лусан">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+        <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/css/style.css?id=529da3e71d0d393f5eef">
+    <link rel="stylesheet" type="text/css" href="/css/slider.css?id=597f91b2a8a4315463aa">
+
+    <link rel="alternate" hreflang="x-default" href="https://manyflats.com/ru/home" />
+            <link rel="alternate" hreflang="en" href="https://manyflats.com/en/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6" />
+            <link rel="alternate" hreflang="lv" href="https://manyflats.com/lv/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6" />
+            <link rel="alternate" hreflang="ru" href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6" />
+    </head>
+<body>
+
+<a class="home-link" href="https://manyflats.com/ru/search"><img src="/images/logo.webp" alt="Поиск выгодной недвижимости"></a>
+
+<a href="https://manyflats.com/ru/add"><div class="add-property animated">Риэлторам</div></a>
+
+<ul class="lang-block lclosed">
+            <li ><a href="https://manyflats.com/en/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6" rel="nofollow"><span class="flag en"></span><span>en</span></a></li>
+            <li ><a href="https://manyflats.com/lv/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6" rel="nofollow"><span class="flag lv"></span><span>lv</span></a></li>
+            <li  class="act"><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6" rel="nofollow"><span class="flag ru"></span><span>ru</span></a></li>
+    </ul>
+
+<div class="container animated">
+    <form class="search-form" action="https://manyflats.com/ru/search" placeholderservice="https://manyflats.com/ru/query">
+        <input name="f" class="search-field" type="text" placeholder="Страна, регион, город, район или адрес" value="ÐÐµÐ´Ð²Ð¸Ð¶Ð¸Ð¼Ð¾ÑÑ‚ÑŒ, 2, Ð½Ðµ Ð¿Ð¾ÑÐ»ÐµÐ´Ð½Ð¸Ð¹ ÑÑ‚Ð°Ð¶">
+        <span>
+            <button class="search-button animated" type="submit">
+                <svg enable-background="new 0 0 512 512" height="30px" width="30px" id="Layer_1" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g>
+                        <path d="M338.279,307.471l96.115,96.115l0,0c11.402,11.403,12.125,31.003,0.078,43.053    c-12.051,12.051-31.707,11.659-43.754-0.389l-95.609-95.608L338.279,307.471" fill="white" />
+                        <path d="M356.199,325.391l-21.992,21.992l99.516,99.516l0.42,0.065l0.068-0.066    c11.98-12.054,11.566-31.929,0.184-43.312l0,0L356.199,325.391" fill="white" />
+                        <path d="M95.538,107.282c-67.688,67.689-67.688,177.432,0,245.12c67.688,67.688,177.431,67.688,245.121,0    c67.688-67.688,67.686-177.431-0.002-245.118C272.967,39.596,163.225,39.596,95.538,107.282z M306.553,321.104    c-49.486,49.486-129.718,49.487-179.207,0c-49.485-49.486-49.484-129.719,0.002-179.205    c49.485-49.486,129.718-49.487,179.205-0.001C356.039,191.385,356.039,271.617,306.553,321.104z" fill="white" />
+                    </g>
+                </svg><span>Поиск</span>
+            </button>
+        </span>
+    </form>
+</div>
+
+<div class="filters-block">
+    <div id="all-filters" class="all-filters">
+        <button class="dropbtn"
+                onclick="document.getElementById('all-filters').style.display='none'; document.getElementById('filter-buttons').style.display='block';">Фильтры
+        </button>
+    </div>
+    <div id="filter-buttons" class="filter-buttons">
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Выгодно</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%BD%D0%B8%D0%B6%D0%B5+%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9+%D1%86%D0%B5%D0%BD%D1%8B%2C+2">ниже рыночной цены</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%81+%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9+%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C%D1%8E%2C+2">выгодная окупаемость</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Объекты</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9A%D1%83%D0%BF%D0%BB%D1%8E+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83%2C+2">Куплю квартиру</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%A1%D0%BD%D0%B8%D0%BC%D1%83+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83%2C+2">Сниму квартиру</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9A%D1%83%D0%BF%D0%BB%D1%8E+%D0%B4%D0%BE%D0%BC%2C+2">Куплю дом</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%A1%D0%BD%D0%B8%D0%BC%D1%83+%D0%B4%D0%BE%D0%BC%2C+2">Сниму дом</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Страна</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%80%D1%8F%D0%B4%D0%BE%D0%BC+%D1%81%D0%BE+%D0%BC%D0%BD%D0%BE%D0%B9%2C+2">Рядом со мной</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B8%2C+2">Австрия</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8%2C+2">Германия</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B5%2C+2">Египет</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%2C+2">Испания</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8%2C+2">Италия</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B5%2C+2">Канада</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8%2C+2">Латвия</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%2C+2">Польша</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8%2C+2">Франция</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%A1%D0%A8%D0%90%2C+2">США</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Комнат</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%81+1+%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%BE%D0%B9%2C+2">1 комната</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%81+2+%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0%D0%BC%D0%B8%2C+2">2 комнаты</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%81+3+%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0%D0%BC%D0%B8%2C+2">3 комнаты</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%81+4+%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0%D0%BC%D0%B8%2C+2">4 комнаты</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Этаж</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+2%2C+%D0%BD%D0%B5+%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9+%D0%B8+%D0%BD%D0%B5+%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9+%D1%8D%D1%82%D0%B0%D0%B6">не первый и не последний</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+2%2C+%D0%BD%D0%B5+%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9+%D1%8D%D1%82%D0%B0%D0%B6">не первый</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+2%2C+%D0%BD%D0%B5+%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9+%D1%8D%D1%82%D0%B0%D0%B6">не последний</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+2%2C+%D0%BD%D0%B0+%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%BC+%D1%8D%D1%82%D0%B0%D0%B6%D0%B5">только первый</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+2%2C+%D0%BD%D0%B0+%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D0%BC+%D1%8D%D1%82%D0%B0%D0%B6%D0%B5">только последний</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Цена</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%BF%D0%BE+%D1%86%D0%B5%D0%BD%D0%B5+%D0%B4%D0%BE+50000%2C+2">до 50000</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%BF%D0%BE+%D1%86%D0%B5%D0%BD%D0%B5+%D0%BE%D1%82+50000+%D0%B4%D0%BE+100000%2C+2">от 50000 до 100000</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%BF%D0%BE+%D1%86%D0%B5%D0%BD%D0%B5+%D0%BE%D1%82+100000%2C+2">от 100000</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Сортировка</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+2%2C+%D0%B4%D0%B5%D1%88%D1%91%D0%B2%D1%8B%D0%B5+%D0%B2+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B5">по цене (дешёвые в начале)</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+2%2C+%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8%D0%B5+%D0%B2+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B5">по цене (дорогие в начале)</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+2%2C+%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B2+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B5">по дате добавления</a>
+                                                                                        </div>
+            </div>
+            </div>
+</div>
+
+<h3 class="fresult-label">
+                    Результаты поиска по <span>140541</span> объектам недвижимости (0,17 сек.)
+        <span class="nobr">
+        &#8594;
+            <a href="https://www.facebook.com/manyflats/" target="_blank" rel="nofollow"><img src="/images/icon/facebook.png" alt="ManyFlats" class="social-icon"></a>
+                        <a href="https://t.me/manyflats" target="_blank" rel="nofollow"><img src="/images/icon/telegram.png" alt="ManyFlats" class="social-icon"></a>
+                <a href="https://vk.com/manyflatscom" target="_blank" rel="nofollow"><img src="/images/icon/vk.png" alt="ManyFlats" class="social-icon"></a>
+    
+        </span>
+                    <br><span style="font-size:80%; text-decoration:line-through">"ððµð´ð²ð¸ð¶ð¸ð¼ð¾ññ‚ñœ"</span>, <span style="font-size:80%; text-decoration:line-through">"ð½ðµ"</span>, <span style="font-size:80%; text-decoration:line-through">"ð¿ð¾ñð»ðµð´ð½ð¸ð¹"</span>, <span style="font-size:80%; text-decoration:line-through">"ññ‚ð°ð¶"</span>
+    </h3>
+
+<div class="top-properties-container">
+    <div class="properties">
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.rentinriga.lv%2Fru%2Fdzivoklis%2Fire%2F49894&amp;d=2020-08-20&amp;h=05a7ee7f7f59fb1825c532f35d2afbb6');" rel="nofollow">
+                        Сдам квартиру - 4 комн. - 2/3 эт. - 67.4 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>600</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Алтонавас 2, Торнкалнс, Рига, Латвия. Реновированный дом. Квартира мебелирована. Газовое отопление. Парковка. 
+                                            </span>
+                    <span class="property-address">&#8594; rentinriga.lv, <span style="font-size: 70%">13.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/b3e2fee95c609064dbf737dfac1e8d9c');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/b3e2fee95c609064dbf737dfac1e8d9c');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/b3e2fee95c609064dbf737dfac1e8d9c" class="property-city" rel="nofollow">
+                                                                    Анализ цены
+                                                                                            </a>
+                                                                                                                            &middot; Уникальных просмотров: 60
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/01.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/02.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/03.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/04.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/05.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/06.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/07.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/08.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/09.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/10.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/11.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/12.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/13.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/14.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/15.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/16.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/17.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/18.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/19.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/3/e2fee95c609064dbf737dfac1e8d9c/20.jpg" alt="">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=http%3A%2F%2Fwww.resales.lv%2Fobject%2F525%3Flang%3Dru&amp;d=2020-08-20&amp;h=3304759477bdd6b9f54e603cada2cd09');" rel="nofollow">
+                        Продам квартиру - 2 комн. - 17/30 эт.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>158&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Лиелирбес 13/2, Шампетерис, Латвия. Новостройка. Монолитный дом. Парковка. 
+                                            </span>
+                    <span class="property-address">&#8594; resales.lv, <span style="font-size: 70%">29.07.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/1a81107b22fb5a66887ac7d9bb0228fb');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/1a81107b22fb5a66887ac7d9bb0228fb');" rel="nofollow">Записаться на просмотр</a>
+                                                                                                                            &middot; Уникальных просмотров: 473
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/1/a/81107b22fb5a66887ac7d9bb0228fb/01.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/1/a/81107b22fb5a66887ac7d9bb0228fb/02.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/1/a/81107b22fb5a66887ac7d9bb0228fb/03.jpg" alt="">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.realat.lv%2Fru%2Fpardod%2Fdzivokli%2Friga%2Fcentrs%2Fpulkv-brieza-iela-92%2F3-istabas%2Fp-kara%2F31783%2F&amp;d=2020-08-20&amp;h=98d4f6f6d660dbd09d286750a3f235fd');" rel="nofollow">
+                        Продам квартиру - 3 комн. - 2/3 эт. - 68 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>122&nbsp;500</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Пулкв. Бриежа иела 9/2, Рига, Латвия. Довоенный дом. Квартира мебелирована. Центральное отопление. Парковка. 
+                                            </span>
+                    <span class="property-address">&#8594; realat.lv, <span style="font-size: 70%">28.07.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/b1771f25b4ab811f496b304cb39674d1');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/b1771f25b4ab811f496b304cb39674d1');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/b1771f25b4ab811f496b304cb39674d1" class="property-city" rel="nofollow">
+                                                                    Выгодная цена
+                                                                                                    <span class="property-profit">(<span>8&nbsp;600</span>€)</span>
+                                                            </a>
+                                                                            &middot; <a href="https://manyflats.com/ru/payback/b1771f25b4ab811f496b304cb39674d1" class="property-city" rel="nofollow">
+                                                                    Анализ окупаемости
+                                
+                                                            </a>
+                                                                                                    &middot; Уникальных просмотров: 495
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/01.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/02.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/03.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/04.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/05.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/06.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/07.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/08.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/09.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/10.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/100.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/101.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/102.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/103.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/104.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/105.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/106.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/107.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/108.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/109.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/11.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/110.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/111.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/112.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/113.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/114.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/115.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/116.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/117.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/118.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/119.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/12.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/120.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/121.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/122.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/123.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/124.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/125.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/126.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/127.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/128.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/13.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/14.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/15.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/16.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/17.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/18.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/19.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/20.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/21.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/22.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/23.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/24.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/25.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/26.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/27.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/28.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/29.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/30.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/31.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/32.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/33.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/34.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/35.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/36.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/37.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/38.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/39.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/40.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/41.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/42.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/43.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/44.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/45.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/46.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/47.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/48.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/49.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/50.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/51.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/52.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/53.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/54.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/55.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/56.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/57.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/58.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/59.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/60.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/61.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/62.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/63.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/64.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/65.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/66.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/67.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/68.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/69.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/70.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/71.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/72.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/73.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/74.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/75.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/76.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/77.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/78.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/79.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/80.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/81.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/82.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/83.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/84.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/85.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/86.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/87.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/88.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/89.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/90.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/91.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/92.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/93.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/94.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/95.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/96.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/97.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/98.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/b/1/771f25b4ab811f496b304cb39674d1/99.jpg" alt="Пулкв. Бриежа иела 9/2, Рига, Латвия">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.rentinriga.lv%2Fru%2Fdzivoklis%2Fire%2F49779&amp;d=2020-08-20&amp;h=0ea1970af0c0ac3def5117028e91b4f8');" rel="nofollow">
+                        Сдам квартиру - 3 комн. - 2/6 эт. - 63 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>530</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Ленчу 2, Центр, Рига, Латвия. Реновированный дом. Квартира мебелирована. Газовое отопление. 
+                                            </span>
+                    <span class="property-address">&#8594; rentinriga.lv, <span style="font-size: 70%">24.07.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/556be8d2d473e13c021879633d72ce20');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/556be8d2d473e13c021879633d72ce20');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/556be8d2d473e13c021879633d72ce20" class="property-city" rel="nofollow">
+                                                                    Выгодная цена
+                                                                                                    <span class="property-profit">(<span>34</span>€)</span>
+                                                            </a>
+                                                                                                                            &middot; Уникальных просмотров: 275
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/01.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/02.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/03.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/04.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/05.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/06.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/07.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/08.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/09.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/10.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/11.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/5/6be8d2d473e13c021879633d72ce20/12.jpg" alt="Ленчу 2, Центр, Рига, Латвия">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wpsj4c&amp;d=2020-08-20&amp;h=0a3f7056542d821331b1671c90a1d03b');" rel="nofollow">
+                        Сдам квартиру - 1 комн. - 2 эт. - 37.4 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>562</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Конрад-Зусе-Штрассе 2, Адлерсхоф, Берлин, Германия. Лифт. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/5b95330380853b10e2f64a0babfdb2bc');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/5b95330380853b10e2f64a0babfdb2bc');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/5b95330380853b10e2f64a0babfdb2bc" class="property-city" rel="nofollow">
+                                                                    Анализ цены
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wmsj4c&amp;d=2020-08-20&amp;h=c9e933ce516e14434ce6c50f2e4969a2');" rel="nofollow">
+                        Сдам квартиру - 1 комн. - 3 эт. - 76 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>874</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Конрад-Зусе-Штрассе 2, Адлерсхоф, Берлин, Германия. Лифт. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/5aefacd0aa719ca62494e6283b6062dc');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/5aefacd0aa719ca62494e6283b6062dc');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/5aefacd0aa719ca62494e6283b6062dc" class="property-city" rel="nofollow">
+                                                                    Выгодная цена
+                                                                                                    <span class="property-profit">(<span>357</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wfmn4c&amp;d=2020-08-20&amp;h=d6eb8d1d4239503bd1d8788ef6f1385e');" rel="nofollow">
+                        Сдам квартиру - 2 комн. - 2 эт. - 62.4 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>765</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Бертха-фон-Суттнер-Штрассе 2, Волфганг, Ханау, Германия. Лифт. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/ed9ec34550eee869e8c847d254b7d58f');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/ed9ec34550eee869e8c847d254b7d58f');" rel="nofollow">Записаться на просмотр</a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.ss.com%2Fmsg%2Fru%2Freal-estate%2Fflats%2Fpreili-and-reg%2Fpreili%2Fbinhc.html&amp;d=2020-08-20&amp;h=22e06bb8627d15409587c8591205c8c0');" rel="nofollow">
+                        Продам квартиру - 2 комн. - 2/3 эт. - 53 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>15&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        А. Упиша 2, Преили, Латвия. Дом хрущёвской постройки. Панельно-кирпичный дом. Все удобства. 
+                                            </span>
+                    <span class="property-address">&#8594; ss.com, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/c4eccbaec6c0ba6ccdcd50edcfdc39fa');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/c4eccbaec6c0ba6ccdcd50edcfdc39fa');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/c4eccbaec6c0ba6ccdcd50edcfdc39fa" class="property-city" rel="nofollow">
+                                                                    Выгодная цена
+                                                                                                    <span class="property-profit">(<span>9&nbsp;337</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.ss.com%2Fmsg%2Fru%2Freal-estate%2Fflats%2Fliepaja-and-reg%2Fgrobina%2Ffgbcn.html&amp;d=2020-08-20&amp;h=2b22001e2454fa164a005ff73379220b');" rel="nofollow">
+                        Продам квартиру - 3 комн. - 3/3 эт. - 71 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>18&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Озолу иела 2, Гробиня, Латвия. Дом 119-й серии. Панельный дом. Все удобства. 
+                                            </span>
+                    <span class="property-address">&#8594; ss.com, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/0a2fdce39b18686b2918a665667e36be');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/0a2fdce39b18686b2918a665667e36be');" rel="nofollow">Записаться на просмотр</a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w5kn4c&amp;d=2020-08-20&amp;h=9006079bfe636108024f5fb4111d7791');" rel="nofollow">
+                        Сдам квартиру - 1 комн. - 1 эт. - 36.29 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>180</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        К.- Ветзел - Штр. 2, Лусан, Гера, Германия. Лифт. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/a4d538f8c9ba29bcc1b354044d94d032');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/a4d538f8c9ba29bcc1b354044d94d032');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/a4d538f8c9ba29bcc1b354044d94d032" class="property-city" rel="nofollow">
+                                                                    Анализ цены
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+            </div>
+                <ul class="pagination">
+                                            <li
+                                            class="active"
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6&amp;p=1" rel="nofollow">1</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6&amp;p=2" rel="nofollow">2</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6&amp;p=3" rel="nofollow">3</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6&amp;p=4" rel="nofollow">4</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6&amp;p=5" rel="nofollow">5</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6&amp;p=6" rel="nofollow">6</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6&amp;p=7" rel="nofollow">7</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6&amp;p=8" rel="nofollow">8</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6&amp;p=9" rel="nofollow">9</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%90%C2%9D%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%B2%C3%90%C2%B8%C3%90%C2%B6%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%91%C2%81%C3%91%E2%80%9A%C3%91%C5%92%2C%202%2C%20%C3%90%C2%BD%C3%90%C2%B5%20%C3%90%C2%BF%C3%90%C2%BE%C3%91%C2%81%C3%90%C2%BB%C3%90%C2%B5%C3%90%C2%B4%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%B9%20%C3%91%C2%8D%C3%91%E2%80%9A%C3%90%C2%B0%C3%90%C2%B6&amp;p=10" rel="nofollow">10</a></li>
+                                    </ul>
+    </div>
+
+<div class="footer">
+    
+    <a href="https://manyflats.com/ru/terms">Условия</a>
+    <a href="https://manyflats.com/ru/policy">Конфиденциальность</a>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="/js/jquery.autocomplete.min.js?id=8510d0a489061ba21a93"></script> 
+<script src="/js/all.js?id=7756898f0f3993035367"></script>
+<script src="/js/click.js?id=7962f4d193beb0144a92"></script>
+    <script src="/js/geo.js?id=ddef2c240ef84d7279e1"></script>
+<script src="/js/slider.js?id=2fd359627020c93d2e77"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.owl-carousel').owlCarousel({
+            items:1,
+            lazyLoad:true,
+            margin:8,
+            nav:false,
+            loop:false,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                380:{
+                    items:2
+                },
+                980:{
+                    items:3
+                },
+            }
+        });
+    });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171779387-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-171779387-1');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(62179063, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/62179063" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>

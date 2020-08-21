@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ManyFlats – search for profitable real estate on all websites of the world</title>
+    <meta name="description" content="140541 properties, the best ads about : Erftstadt, Arnstadt, Erfurt, Ashaffenburg, Bamberg, Munich, Untershleissheim, Herzogenaurach, Nordrhein-Westfalen, Thuringen, Bayern, Lobervorstadt, Andreasvorstadt, Innenstadt, Shwabing-West, Berg am Laim">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+        <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/css/style.css?id=529da3e71d0d393f5eef">
+    <link rel="stylesheet" type="text/css" href="/css/slider.css?id=597f91b2a8a4315463aa">
+
+    <link rel="alternate" hreflang="x-default" href="https://manyflats.com/en/home" />
+            <link rel="alternate" hreflang="en" href="https://manyflats.com/en/search?p=10" />
+            <link rel="alternate" hreflang="lv" href="https://manyflats.com/lv/search?p=10" />
+            <link rel="alternate" hreflang="ru" href="https://manyflats.com/ru/search?p=10" />
+    </head>
+<body>
+
+<a class="home-link" href="https://manyflats.com/en/search"><img src="/images/logo.webp" alt="Profitable Property Search System"></a>
+
+<a href="https://manyflats.com/en/add"><div class="add-property animated">For realtors</div></a>
+
+<ul class="lang-block lclosed">
+            <li  class="act"><a href="https://manyflats.com/en/search?p=10" rel="nofollow"><span class="flag en"></span><span>en</span></a></li>
+            <li ><a href="https://manyflats.com/lv/search?p=10" rel="nofollow"><span class="flag lv"></span><span>lv</span></a></li>
+            <li ><a href="https://manyflats.com/ru/search?p=10" rel="nofollow"><span class="flag ru"></span><span>ru</span></a></li>
+    </ul>
+
+<div class="container animated">
+    <form class="search-form" action="https://manyflats.com/en/search" placeholderservice="https://manyflats.com/en/query">
+        <input name="f" class="search-field" type="text" placeholder="Country, region, city, district or address" value="">
+        <span>
+            <button class="search-button animated" type="submit">
+                <svg enable-background="new 0 0 512 512" height="30px" width="30px" id="Layer_1" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g>
+                        <path d="M338.279,307.471l96.115,96.115l0,0c11.402,11.403,12.125,31.003,0.078,43.053    c-12.051,12.051-31.707,11.659-43.754-0.389l-95.609-95.608L338.279,307.471" fill="white" />
+                        <path d="M356.199,325.391l-21.992,21.992l99.516,99.516l0.42,0.065l0.068-0.066    c11.98-12.054,11.566-31.929,0.184-43.312l0,0L356.199,325.391" fill="white" />
+                        <path d="M95.538,107.282c-67.688,67.689-67.688,177.432,0,245.12c67.688,67.688,177.431,67.688,245.121,0    c67.688-67.688,67.686-177.431-0.002-245.118C272.967,39.596,163.225,39.596,95.538,107.282z M306.553,321.104    c-49.486,49.486-129.718,49.487-179.207,0c-49.485-49.486-49.484-129.719,0.002-179.205    c49.485-49.486,129.718-49.487,179.205-0.001C356.039,191.385,356.039,271.617,306.553,321.104z" fill="white" />
+                    </g>
+                </svg><span>Search</span>
+            </button>
+        </span>
+    </form>
+</div>
+
+<div class="filters-block">
+    <div id="all-filters" class="all-filters">
+        <button class="dropbtn"
+                onclick="document.getElementById('all-filters').style.display='none'; document.getElementById('filter-buttons').style.display='block';">Filters
+        </button>
+    </div>
+    <div id="filter-buttons" class="filter-buttons">
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Profit</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Property+below+market+price">Below market price</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+with+high+yields+to+the+investments">High yields to the investments</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Objects</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Buy+an+apartment">Buy an apartment</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Rent+an+apartment">Rent an apartment</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Buy+a+house">Buy a house</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Rent+a+house">Rent a house</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Country</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Property+near+me">Near me</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Austria">Austria</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Canada">Canada</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+France">France</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Germany">Germany</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Ireland">Ireland</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Italy">Italy</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Latvia">Latvia</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Portugal">Portugal</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+South+Africa">South Africa</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Spain">Spain</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Sweden">Sweden</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Rooms</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=1+bedroom+property">1 room</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=2+bedrooms+property">2 rooms</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=3+bedrooms+property">3 rooms</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=4+bedrooms+property">4 rooms</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Floor</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Property%2C+not+the+first+and+not+the+top+floor">not first and not top</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+not+the+first+floor">not first</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+not+the+top+floor">not top</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+on+the+first+floor">only first</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+on+the+top+floor">only top</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Price</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Property+at+a+price+to+50000">to 50000</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+at+a+price+from+50000+to+100000">from 50000 to 100000</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+at+a+price+from+100000">from 100000</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Sort</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Property%2C+cheapest+at+the+beginning">by price (cheapest at the beginning)</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+expensive+at+the+beginning">by price (expensive at the beginning)</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+new+at+the+beginning">by date added</a>
+                                                                                        </div>
+            </div>
+            </div>
+</div>
+
+<h3 class="fresult-label">
+                    About <span>140541</span> results in data base, page 10 (0.01 seconds)
+        <span class="nobr">
+        &#8594;
+            <a href="https://www.facebook.com/manyflatscom/" target="_blank" rel="nofollow"><img src="/images/icon/facebook.png" alt="ManyFlats" class="social-icon"></a>
+                        <a href="https://t.me/manyflatscom" target="_blank" rel="nofollow"><img src="/images/icon/telegram.png" alt="ManyFlats" class="social-icon"></a>
+        
+        </span>
+    </h3>
+
+<div class="top-properties-container">
+    <div class="properties">
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wdsm4c&amp;d=2020-08-20&amp;h=fd2b5ad52a9852c9ac1936a1f602da38');" rel="nofollow">
+                        Selling flat - 4 bdr - 1 floor - 115.6 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>318&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Heinrich-Lubke-Str. 1d, Erftstadt, Germany. Elevator. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/c6d321831190f30361d331c205795a8a');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/c6d321831190f30361d331c205795a8a');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/c6d321831190f30361d331c205795a8a" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wjgh4c&amp;d=2020-08-20&amp;h=2a11b2135d8e68bcf642ae53124fa381');" rel="nofollow">
+                        Rent out flat - 2 bdr - 56.5 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>350</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Arnstadt, Germany. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/20a0cf92edbaf4ecce11685aab9c6d21');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/20a0cf92edbaf4ecce11685aab9c6d21');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/20a0cf92edbaf4ecce11685aab9c6d21" class="property-city" rel="nofollow">
+                                                                    Good price
+                                                                                                    <span class="property-profit">(<span>32</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wazn4c&amp;d=2020-08-20&amp;h=e39b6364561b77506314e851ecc0d3d1');" rel="nofollow">
+                        Rent out flat - 2 bdr - 51 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>450</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Lobervorstadt, Erfurt, Germany. Elevator. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/c3fd0b28c77a90b63466b07712400f49');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/c3fd0b28c77a90b63466b07712400f49');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/c3fd0b28c77a90b63466b07712400f49" class="property-city" rel="nofollow">
+                                                                    Good price
+                                                                                                    <span class="property-profit">(<span>38</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wryn4c&amp;d=2020-08-20&amp;h=a6885d6149c4094c0787dffe79c67124');" rel="nofollow">
+                        Rent out flat - 2 bdr - 53 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>489</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Talstr. 12b, Andreasvorstadt, Erfurt, Germany. Elevator. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/d2cdd382a59231eb17ec3315e0199958');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/d2cdd382a59231eb17ec3315e0199958');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/d2cdd382a59231eb17ec3315e0199958" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wfhn4c&amp;d=2020-08-20&amp;h=4e95b7f9ed5b7dcb8ae46ae7ca1282fd');" rel="nofollow">
+                        Rent out flat - 3 bdr - 3 floor - 68 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>550</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Innenstadt, Ashaffenburg, Germany. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/299ae7ab7ae3f31877e878607d6a76e5');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/299ae7ab7ae3f31877e878607d6a76e5');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/299ae7ab7ae3f31877e878607d6a76e5" class="property-city" rel="nofollow">
+                                                                    Good price
+                                                                                                    <span class="property-profit">(<span>277</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wmwm4c&amp;d=2020-08-20&amp;h=910c3b6eb47d798bb68e7aeeacd37c6e');" rel="nofollow">
+                        Rent out flat - 3 bdr - 84 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>1&nbsp;200</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Bamberg, Germany. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/375766dec403f1f185748a77c277f10d');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/375766dec403f1f185748a77c277f10d');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/375766dec403f1f185748a77c277f10d" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wxbn4c&amp;d=2020-08-20&amp;h=73c61d3a399b71a6fe173b510679ec47');" rel="nofollow">
+                        Rent out flat - 2 bdr - 45 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>1&nbsp;550</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Shwabing-West, Munich, Germany. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/462d07782499afcbfa9507d9e8e153b6');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/462d07782499afcbfa9507d9e8e153b6');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/462d07782499afcbfa9507d9e8e153b6" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w6bn4c&amp;d=2020-08-20&amp;h=060392aa3b7a777989daeece4b127677');" rel="nofollow">
+                        Rent out flat - 2 bdr - 50 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>1&nbsp;580</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Untershleissheim, Germany. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/c70212aba8c790e22d26543c0a980fd7');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/c70212aba8c790e22d26543c0a980fd7');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/c70212aba8c790e22d26543c0a980fd7" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wajn4c&amp;d=2020-08-20&amp;h=fb190b250dcbee45bc086d44bdfb838c');" rel="nofollow">
+                        Rent out flat - 4 bdr - 2 floor - 110 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>2&nbsp;290</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Annabrunnerstrasse 22, Berg am Laim, Munich, Germany. Parking. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/f638030d217fedbcfa713f81d4a55222');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/f638030d217fedbcfa713f81d4a55222');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/f638030d217fedbcfa713f81d4a55222" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wtjn4c&amp;d=2020-08-20&amp;h=f477007f7042c6599c9d8cbc8cde551c');" rel="nofollow">
+                        Selling flat - 3 bdr - 1 floor - 68 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>199&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Herzogenaurach, Germany. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/19203900aeb83e222dc1b9247cb2e414');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/19203900aeb83e222dc1b9247cb2e414');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/19203900aeb83e222dc1b9247cb2e414" class="property-city" rel="nofollow">
+                                                                    Good price
+                                                                                                    <span class="property-profit">(<span>7&nbsp;518</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+            </div>
+                <ul class="pagination">
+                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=1" rel="nofollow">1</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=2" rel="nofollow">2</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=3" rel="nofollow">3</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=4" rel="nofollow">4</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=5" rel="nofollow">5</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=6" rel="nofollow">6</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=7" rel="nofollow">7</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=8" rel="nofollow">8</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=9" rel="nofollow">9</a></li>
+                                                            <li
+                                            class="active"
+                                    ><a href="https://manyflats.com/en/search?p=10" rel="nofollow">10</a></li>
+                                    </ul>
+    </div>
+
+<div class="footer">
+    
+    <a href="https://manyflats.com/en/terms">Conditions</a>
+    <a href="https://manyflats.com/en/policy">Confidentiality</a>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="/js/jquery.autocomplete.min.js?id=8510d0a489061ba21a93"></script> 
+<script src="/js/all.js?id=7756898f0f3993035367"></script>
+<script src="/js/click.js?id=7962f4d193beb0144a92"></script>
+    <script src="/js/geo.js?id=ddef2c240ef84d7279e1"></script>
+<script src="/js/slider.js?id=2fd359627020c93d2e77"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.owl-carousel').owlCarousel({
+            items:1,
+            lazyLoad:true,
+            margin:8,
+            nav:false,
+            loop:false,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                380:{
+                    items:2
+                },
+                980:{
+                    items:3
+                },
+            }
+        });
+    });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171779387-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-171779387-1');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(62179063, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/62179063" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>

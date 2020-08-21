@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ManyFlats - nekustamo īpašumu meklēšana visās vietnēs pasaulē</title>
+    <meta name="description" content="140541 nekustamā īpašuma objekti, labākie paziņojumi par : Gelsenkirchen, Leverkusen, Krefeld, Monchengladbach, Minden , Westf, Essen , Ruhr, Diseldorfa, Wetter, Nordrhein-Westfalen, Bismarck, Quettingen, Fisheln, Odenkirchen, Innenstadt, Borbeck-Centrs, Pempelfort">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+        <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/css/style.css?id=529da3e71d0d393f5eef">
+    <link rel="stylesheet" type="text/css" href="/css/slider.css?id=597f91b2a8a4315463aa">
+
+    <link rel="alternate" hreflang="x-default" href="https://manyflats.com/lv/home" />
+            <link rel="alternate" hreflang="en" href="https://manyflats.com/en/search?p=9" />
+            <link rel="alternate" hreflang="lv" href="https://manyflats.com/lv/search?p=9" />
+            <link rel="alternate" hreflang="ru" href="https://manyflats.com/ru/search?p=9" />
+    </head>
+<body>
+
+<a class="home-link" href="https://manyflats.com/lv/search"><img src="/images/logo.webp" alt="Sistēma izdevīgā nekustamā īpašuma&amp;nbsp;meklēšanai"></a>
+
+<a href="https://manyflats.com/lv/add"><div class="add-property animated">Mākleriem</div></a>
+
+<ul class="lang-block lclosed">
+            <li ><a href="https://manyflats.com/en/search?p=9" rel="nofollow"><span class="flag en"></span><span>en</span></a></li>
+            <li  class="act"><a href="https://manyflats.com/lv/search?p=9" rel="nofollow"><span class="flag lv"></span><span>lv</span></a></li>
+            <li ><a href="https://manyflats.com/ru/search?p=9" rel="nofollow"><span class="flag ru"></span><span>ru</span></a></li>
+    </ul>
+
+<div class="container animated">
+    <form class="search-form" action="https://manyflats.com/lv/search" placeholderservice="https://manyflats.com/lv/query">
+        <input name="f" class="search-field" type="text" placeholder="Valsts, reģions, pilsēta, rajons vai adrese" value="">
+        <span>
+            <button class="search-button animated" type="submit">
+                <svg enable-background="new 0 0 512 512" height="30px" width="30px" id="Layer_1" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g>
+                        <path d="M338.279,307.471l96.115,96.115l0,0c11.402,11.403,12.125,31.003,0.078,43.053    c-12.051,12.051-31.707,11.659-43.754-0.389l-95.609-95.608L338.279,307.471" fill="white" />
+                        <path d="M356.199,325.391l-21.992,21.992l99.516,99.516l0.42,0.065l0.068-0.066    c11.98-12.054,11.566-31.929,0.184-43.312l0,0L356.199,325.391" fill="white" />
+                        <path d="M95.538,107.282c-67.688,67.689-67.688,177.432,0,245.12c67.688,67.688,177.431,67.688,245.121,0    c67.688-67.688,67.686-177.431-0.002-245.118C272.967,39.596,163.225,39.596,95.538,107.282z M306.553,321.104    c-49.486,49.486-129.718,49.487-179.207,0c-49.485-49.486-49.484-129.719,0.002-179.205    c49.485-49.486,129.718-49.487,179.205-0.001C356.039,191.385,356.039,271.617,306.553,321.104z" fill="white" />
+                    </g>
+                </svg><span>Meklēt</span>
+            </button>
+        </span>
+    </form>
+</div>
+
+<div class="filters-block">
+    <div id="all-filters" class="all-filters">
+        <button class="dropbtn"
+                onclick="document.getElementById('all-filters').style.display='none'; document.getElementById('filter-buttons').style.display='block';">Filtri
+        </button>
+    </div>
+    <div id="filter-buttons" class="filter-buttons">
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Izdevīgi</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+zem+tirgus+cenas">zem tirgus cenas</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+ar+lielu+pe%C4%BC%C5%86u+no+ieguld%C4%ABjumiem">ar lielu peļņu no ieguldījumiem</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Darijuma veids</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nopirkt+dz%C4%ABvokli">Pirkt dzīvokli</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=%C4%AAr%C4%93t+dz%C4%ABvokli">Īrēt dzīvokli</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nopirkt+m%C4%81ju">Pirkt māju</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=%C4%AAr%C4%93t+m%C4%81ju">Īre māju</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Valsts</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+blakus+man">Blakus man</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Francij%C4%81">Francija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Grie%C4%B7ij%C4%81">Grieķija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Horv%C4%81tij%C4%81">Horvātija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+It%C4%81lij%C4%81">Itālija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+%C4%AArij%C4%81">Īrija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Kan%C4%81d%C4%81">Kanāda</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Latvij%C4%81">Latvija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Polij%C4%81">Polija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Portug%C4%81l%C4%93">Portugāle</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Sp%C4%81nij%C4%81">Spānija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+V%C4%81cij%C4%81">Vācija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Zviedrij%C4%81">Zviedrija</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Istabas</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=%C4%AApa%C5%A1ums+ar+1+gu%C4%BCamistabu">1 istaba</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=%C4%AApa%C5%A1ums+ar+2+gu%C4%BCamistabam">2 istabas</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=%C4%AApa%C5%A1ums+ar+3+gu%C4%BCamistabam">3 istabas</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=%C4%AApa%C5%A1ums+ar+4+gu%C4%BCamistabam">4 istabas</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Stāvs</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+ne+pirmais+un+ne+aug%C5%A1%C4%93j%C4%81+st%C4%81vs">ne pirmais un ne pēdējais</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+ne+pirmais+st%C4%81vs">ne pirmais</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+ne+p%C4%93d%C4%93jais+st%C4%81vs">ne pēdējais</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+pirmaj%C4%81+st%C4%81v%C4%81">tikai pirmais</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+aug%C5%A1%C4%93j%C4%81+st%C4%81v%C4%81">tikai pēdējais</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Cena</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+cena+l%C4%ABdz+50000">līdz 50000</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+cena+no+50000+l%C4%ABdz+100000">no 50000 līdz 100000</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+cena+no+100000">no 100000</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Šķirošana</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+l%C4%93t%C4%81ki+s%C4%81kum%C4%81">pēc cenas (lētakas priekšā)</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+d%C4%81rg%C4%81kie+s%C4%81kum%C4%81">pēc cenas (sākumā dārgakas)</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+jaunie+s%C4%81kum%C4%81">pēc pievienošanas datuma</a>
+                                                                                        </div>
+            </div>
+            </div>
+</div>
+
+<h3 class="fresult-label">
+                    Aptuveni <span>140541</span> rezultāti datu bāzē, 2. lapa (0,01 sekundes)
+        <span class="nobr">
+        &#8594;
+            <a href="https://www.facebook.com/manyflatscom/" target="_blank" rel="nofollow"><img src="/images/icon/facebook.png" alt="ManyFlats" class="social-icon"></a>
+                        <a href="https://t.me/manyflatscom" target="_blank" rel="nofollow"><img src="/images/icon/telegram.png" alt="ManyFlats" class="social-icon"></a>
+        
+        </span>
+    </h3>
+
+<div class="top-properties-container">
+    <div class="properties">
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w6xn4c&amp;d=2020-08-20&amp;h=30c292e4eae16f726ba01abbe1f920c4');" rel="nofollow">
+                        Izīrē dzīvokli - 3 ist. - 1 stāv. - 65.09 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>449</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Sauerlandstrasse 8, Bismarck, Gelsenkirchen, Vācija. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/646cbec95d5fecd4eaec59e40c3fdc65');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/646cbec95d5fecd4eaec59e40c3fdc65');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/646cbec95d5fecd4eaec59e40c3fdc65" class="property-city" rel="nofollow">
+                                                                    Cenu analīze
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w7wn4c&amp;d=2020-08-20&amp;h=a4548eb24acffe9b8d921cc9cb4f11fa');" rel="nofollow">
+                        Izīrē dzīvokli - 2 ist. - 3 stāv. - 56.9 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>468</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Lutzenkirchener Strasse 133, Quettingen, Leverkusen, Vācija. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/a22017cb6291e7ef3687ef4bfa32e7b0');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/a22017cb6291e7ef3687ef4bfa32e7b0');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/a22017cb6291e7ef3687ef4bfa32e7b0" class="property-city" rel="nofollow">
+                                                                    Izdevīga cena
+                                                                                                    <span class="property-profit">(<span>23</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wyxn4c&amp;d=2020-08-20&amp;h=816d746a421a9e5f5b6e163e784623b9');" rel="nofollow">
+                        Izīrē dzīvokli - 3 ist. - 4 stāv. - 78 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>469</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Vulkanstrasse 242, Fisheln, Krefeld, Vācija. Lifts. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/b2bfef94a46a7a79b35851e7a8903ea1');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/b2bfef94a46a7a79b35851e7a8903ea1');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/b2bfef94a46a7a79b35851e7a8903ea1" class="property-city" rel="nofollow">
+                                                                    Cenu analīze
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wxxn4c&amp;d=2020-08-20&amp;h=fc5bf2a8a29c85f496baf13b8b4dc29b');" rel="nofollow">
+                        Izīrē dzīvokli - 3 ist. - 2 stāv. - 85 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>469</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Remsheider Strasse 54, Fisheln, Krefeld, Vācija. Lifts. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/e739003e5f918b06700968d6669ac94f');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/e739003e5f918b06700968d6669ac94f');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/e739003e5f918b06700968d6669ac94f" class="property-city" rel="nofollow">
+                                                                    Izdevīga cena
+                                                                                                    <span class="property-profit">(<span>46</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wvxn4c&amp;d=2020-08-20&amp;h=503c0135c2aed2535f93b6dea968909d');" rel="nofollow">
+                        Izīrē dzīvokli - 4 ist. - 8 stāv. - 103 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>498</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Shleestrasse 4, Odenkirchen, Monchengladbach, Vācija. Lifts. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/a774e021c57032b1ea21760792e8bd1b');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/a774e021c57032b1ea21760792e8bd1b');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/a774e021c57032b1ea21760792e8bd1b" class="property-city" rel="nofollow">
+                                                                    Izdevīga cena
+                                                                                                    <span class="property-profit">(<span>118</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w6wn4c&amp;d=2020-08-20&amp;h=a4b624dba73d72e6eef90cbb090f64ab');" rel="nofollow">
+                        Izīrē dzīvokli - 2 ist. - 2 stāv. - 58.1 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>507</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Lutzenkirchener Strasse 121, Quettingen, Leverkusen, Vācija. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/c3b14d93f4bce07563e21acc37679608');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/c3b14d93f4bce07563e21acc37679608');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/c3b14d93f4bce07563e21acc37679608" class="property-city" rel="nofollow">
+                                                                    Izdevīga cena
+                                                                                                    <span class="property-profit">(<span>6</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w3sn4c&amp;d=2020-08-20&amp;h=40d223349b68bc04f29166d52c9fd674');" rel="nofollow">
+                        Izīrē dzīvokli - 2 ist. - 71.4 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>599</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Marienstr. 108a, Innenstadt, Minden , Westf, Vācija. Lifts. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/0b630d6fbd4e25902038c6e16eb1c059');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/0b630d6fbd4e25902038c6e16eb1c059');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/0b630d6fbd4e25902038c6e16eb1c059" class="property-city" rel="nofollow">
+                                                                    Cenu analīze
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wv3p4c&amp;d=2020-08-20&amp;h=43adbc390953c08d15542051c35f9137');" rel="nofollow">
+                        Izīrē dzīvokli - 4 ist. - 2 stāv. - 81.09 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>635</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Flurstr. 43, Borbeck-Centrs, Essen , Ruhr, Vācija. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/1028c45c8444fe300e70a97a82a56603');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/1028c45c8444fe300e70a97a82a56603');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/1028c45c8444fe300e70a97a82a56603" class="property-city" rel="nofollow">
+                                                                    Izdevīga cena
+                                                                                                    <span class="property-profit">(<span>107</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wmsn4c&amp;d=2020-08-20&amp;h=40ab565dd3553994977ff2b038099d4f');" rel="nofollow">
+                        Izīrē dzīvokli - 2 ist. - 53.3 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>699</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Dusselthaler Strasse 43, Pempelfort, Diseldorfa, Vācija. Lifts. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/2b0ce5ed57273ffc8c475333b3ba1885');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/2b0ce5ed57273ffc8c475333b3ba1885');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/2b0ce5ed57273ffc8c475333b3ba1885" class="property-city" rel="nofollow">
+                                                                    Izdevīga cena
+                                                                                                    <span class="property-profit">(<span>1</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w6sm4c&amp;d=2020-08-20&amp;h=a0c728b3d61e87e1eb6f12bebea97ac5');" rel="nofollow">
+                        Pārdošu dzīvokli - 2 ist. - 70 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>129&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Wetter, Vācija. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/1637ffc17e6046b4e1393405cee884cd');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/1637ffc17e6046b4e1393405cee884cd');" rel="nofollow">Ierakstīt apskatei</a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+            </div>
+                <ul class="pagination">
+                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=1" rel="nofollow">1</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=2" rel="nofollow">2</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=3" rel="nofollow">3</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=4" rel="nofollow">4</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=5" rel="nofollow">5</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=6" rel="nofollow">6</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=7" rel="nofollow">7</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=8" rel="nofollow">8</a></li>
+                                                            <li
+                                            class="active"
+                                    ><a href="https://manyflats.com/lv/search?p=9" rel="nofollow">9</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=10" rel="nofollow">10</a></li>
+                                    </ul>
+    </div>
+
+<div class="footer">
+    
+    <a href="https://manyflats.com/lv/terms">Nosacījumi</a>
+    <a href="https://manyflats.com/lv/policy">Konfidencialitāte</a>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="/js/jquery.autocomplete.min.js?id=8510d0a489061ba21a93"></script> 
+<script src="/js/all.js?id=7756898f0f3993035367"></script>
+<script src="/js/click.js?id=7962f4d193beb0144a92"></script>
+    <script src="/js/geo.js?id=ddef2c240ef84d7279e1"></script>
+<script src="/js/slider.js?id=2fd359627020c93d2e77"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.owl-carousel').owlCarousel({
+            items:1,
+            lazyLoad:true,
+            margin:8,
+            nav:false,
+            loop:false,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                380:{
+                    items:2
+                },
+                980:{
+                    items:3
+                },
+            }
+        });
+    });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171779387-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-171779387-1');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(62179063, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/62179063" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>

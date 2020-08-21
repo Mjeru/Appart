@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ManyFlats – search for profitable real estate on all websites of the world</title>
+    <meta name="description" content="140541 properties, the best ads about : Riga, Rezekne, Rhauderfehn, Gelsenkirchen, Lunen, Agenskalns, Rezekne un raj., Niedersachsen, Nordrhein-Westfalen, Bergi, Vecriga, Old city, Historic centre, Sholven, Wethmar">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+        <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/css/style.css?id=529da3e71d0d393f5eef">
+    <link rel="stylesheet" type="text/css" href="/css/slider.css?id=597f91b2a8a4315463aa">
+
+    <link rel="alternate" hreflang="x-default" href="https://manyflats.com/en/home" />
+            <link rel="alternate" hreflang="en" href="https://manyflats.com/en/search?p=5" />
+            <link rel="alternate" hreflang="lv" href="https://manyflats.com/lv/search?p=5" />
+            <link rel="alternate" hreflang="ru" href="https://manyflats.com/ru/search?p=5" />
+    </head>
+<body>
+
+<a class="home-link" href="https://manyflats.com/en/search"><img src="/images/logo.webp" alt="Profitable Property Search System"></a>
+
+<a href="https://manyflats.com/en/add"><div class="add-property animated">For realtors</div></a>
+
+<ul class="lang-block lclosed">
+            <li  class="act"><a href="https://manyflats.com/en/search?p=5" rel="nofollow"><span class="flag en"></span><span>en</span></a></li>
+            <li ><a href="https://manyflats.com/lv/search?p=5" rel="nofollow"><span class="flag lv"></span><span>lv</span></a></li>
+            <li ><a href="https://manyflats.com/ru/search?p=5" rel="nofollow"><span class="flag ru"></span><span>ru</span></a></li>
+    </ul>
+
+<div class="container animated">
+    <form class="search-form" action="https://manyflats.com/en/search" placeholderservice="https://manyflats.com/en/query">
+        <input name="f" class="search-field" type="text" placeholder="Country, region, city, district or address" value="">
+        <span>
+            <button class="search-button animated" type="submit">
+                <svg enable-background="new 0 0 512 512" height="30px" width="30px" id="Layer_1" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g>
+                        <path d="M338.279,307.471l96.115,96.115l0,0c11.402,11.403,12.125,31.003,0.078,43.053    c-12.051,12.051-31.707,11.659-43.754-0.389l-95.609-95.608L338.279,307.471" fill="white" />
+                        <path d="M356.199,325.391l-21.992,21.992l99.516,99.516l0.42,0.065l0.068-0.066    c11.98-12.054,11.566-31.929,0.184-43.312l0,0L356.199,325.391" fill="white" />
+                        <path d="M95.538,107.282c-67.688,67.689-67.688,177.432,0,245.12c67.688,67.688,177.431,67.688,245.121,0    c67.688-67.688,67.686-177.431-0.002-245.118C272.967,39.596,163.225,39.596,95.538,107.282z M306.553,321.104    c-49.486,49.486-129.718,49.487-179.207,0c-49.485-49.486-49.484-129.719,0.002-179.205    c49.485-49.486,129.718-49.487,179.205-0.001C356.039,191.385,356.039,271.617,306.553,321.104z" fill="white" />
+                    </g>
+                </svg><span>Search</span>
+            </button>
+        </span>
+    </form>
+</div>
+
+<div class="filters-block">
+    <div id="all-filters" class="all-filters">
+        <button class="dropbtn"
+                onclick="document.getElementById('all-filters').style.display='none'; document.getElementById('filter-buttons').style.display='block';">Filters
+        </button>
+    </div>
+    <div id="filter-buttons" class="filter-buttons">
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Profit</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Property+below+market+price">Below market price</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+with+high+yields+to+the+investments">High yields to the investments</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Objects</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Buy+an+apartment">Buy an apartment</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Rent+an+apartment">Rent an apartment</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Buy+a+house">Buy a house</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Rent+a+house">Rent a house</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Country</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Property+near+me">Near me</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Austria">Austria</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Canada">Canada</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+France">France</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Germany">Germany</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Ireland">Ireland</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Italy">Italy</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Latvia">Latvia</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Portugal">Portugal</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+South+Africa">South Africa</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Spain">Spain</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+in+Sweden">Sweden</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Rooms</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=1+bedroom+property">1 room</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=2+bedrooms+property">2 rooms</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=3+bedrooms+property">3 rooms</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=4+bedrooms+property">4 rooms</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Floor</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Property%2C+not+the+first+and+not+the+top+floor">not first and not top</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+not+the+first+floor">not first</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+not+the+top+floor">not top</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+on+the+first+floor">only first</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+on+the+top+floor">only top</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Price</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Property+at+a+price+to+50000">to 50000</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+at+a+price+from+50000+to+100000">from 50000 to 100000</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property+at+a+price+from+100000">from 100000</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Sort</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/en/search?f=Property%2C+cheapest+at+the+beginning">by price (cheapest at the beginning)</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+expensive+at+the+beginning">by price (expensive at the beginning)</a>
+                                                                                                                                                            <a href="https://manyflats.com/en/search?f=Property%2C+new+at+the+beginning">by date added</a>
+                                                                                        </div>
+            </div>
+            </div>
+</div>
+
+<h3 class="fresult-label">
+                    About <span>140541</span> results in data base, page 5 (0.01 seconds)
+        <span class="nobr">
+        &#8594;
+            <a href="https://www.facebook.com/manyflatscom/" target="_blank" rel="nofollow"><img src="/images/icon/facebook.png" alt="ManyFlats" class="social-icon"></a>
+                        <a href="https://t.me/manyflatscom" target="_blank" rel="nofollow"><img src="/images/icon/telegram.png" alt="ManyFlats" class="social-icon"></a>
+        
+        </span>
+    </h3>
+
+<div class="top-properties-container">
+    <div class="properties">
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.realat.lv%2Fen%2Fpardod%2Fdzivokli%2Friga%2Fagenskalns%2Fsabiles-iela-8%2F2-istabas%2Fjaun%2F20491%2F&amp;d=2020-08-20&amp;h=e1b61ae6aea81e325889cefd9fd6cf2f');" rel="nofollow">
+                        Selling flat - 2 bdr - 3/3 floor - 69 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>117&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Sabiles iela 8, Riga, Latvia. New building. Gas heating. Parking. 
+                                            </span>
+                    <span class="property-address">&#8594; realat.lv, <span style="font-size: 70%">07.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/3ab8b64a322f2c38fc531f3c6773c505');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/3ab8b64a322f2c38fc531f3c6773c505');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/3ab8b64a322f2c38fc531f3c6773c505" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                            &middot; <a href="https://manyflats.com/en/payback/3ab8b64a322f2c38fc531f3c6773c505" class="property-city" rel="nofollow">
+                                                                    Interest analysis
+                                
+                                                            </a>
+                                                                                                    &middot; Unique ad views: 952
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/01.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/02.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/03.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/04.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/05.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/06.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/07.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/08.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/09.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/10.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/11.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/12.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/13.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/14.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/15.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/16.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/17.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/18.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/19.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/20.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/21.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/22.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/23.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/24.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/25.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/26.jpg" alt="">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.realat.lv%2Fen%2Fpardod%2Fdzivokli%2Friga%2Fagenskalns%2Fsabiles-iela-8%2F2-istabas%2Fjaun%2F20490%2F&amp;d=2020-08-20&amp;h=ee5844626e8b6a2db0001c1d9a3e87d8');" rel="nofollow">
+                        Selling flat - 2 bdr - 3/3 floor - 73 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>124&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Sabiles iela 8, Riga, Latvia. New building. Gas heating. Parking. 
+                                            </span>
+                    <span class="property-address">&#8594; realat.lv, <span style="font-size: 70%">07.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/89d69dde0cc447066882315c9b2e61cb');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/89d69dde0cc447066882315c9b2e61cb');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/89d69dde0cc447066882315c9b2e61cb" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                            &middot; <a href="https://manyflats.com/en/payback/89d69dde0cc447066882315c9b2e61cb" class="property-city" rel="nofollow">
+                                                                    Interest analysis
+                                
+                                                            </a>
+                                                                                                    &middot; Unique ad views: 947
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/01.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/02.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/03.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/04.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/05.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/06.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/07.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/08.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/09.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/10.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/11.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/12.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/13.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/14.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/15.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/16.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/17.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/18.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/19.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/20.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/21.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/22.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/23.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/24.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/25.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/26.jpg" alt="">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.realat.lv%2Fen%2Fpardod%2Fdzivokli%2Friga%2Fagenskalns%2Fsabiles-iela-8%2F4-istabas%2Fjaun%2F22892%2F&amp;d=2020-08-20&amp;h=f7e00c87c4f694d198bf57e317b7c364');" rel="nofollow">
+                        Selling flat - 4 bdr - 3/3 floor - 101 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>171&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Sabiles iela 8, Riga, Latvia. New building. Gas heating. Parking. 
+                                            </span>
+                    <span class="property-address">&#8594; realat.lv, <span style="font-size: 70%">07.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/dc9fc88d335b5d85bc9fb63151568ff9');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/dc9fc88d335b5d85bc9fb63151568ff9');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/dc9fc88d335b5d85bc9fb63151568ff9" class="property-city" rel="nofollow">
+                                                                    Good price
+                                                                                                    <span class="property-profit">(<span>7&nbsp;772</span>€)</span>
+                                                            </a>
+                                                                                                                            &middot; Unique ad views: 1061
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/01.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/02.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/03.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/04.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/05.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/06.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/07.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/08.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/09.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/10.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/11.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/12.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/13.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/14.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/15.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/16.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/17.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/18.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/19.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/20.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/21.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/22.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/23.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/24.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/25.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/26.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/27.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/28.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/29.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/30.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/31.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/32.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/33.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/34.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/35.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/36.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/37.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/38.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/39.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/40.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/41.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/42.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/43.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/44.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/45.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/46.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/47.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/48.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/49.jpg" alt="Sabiles iela 8, Riga, Latvia">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.rentinriga.lv%2Fen%2Fdzivoklis%2Fire%2F49856&amp;d=2020-08-20&amp;h=7a9f133021f3cd1853686064eefd9304');" rel="nofollow">
+                        Rent out flat - 2 bdr - 65 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>650</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Slokas 31A, Agenskalns, Riga, Latvia. Renovated house. The apartment is furnished. Central heating. Parking. 
+                                            </span>
+                    <span class="property-address">&#8594; rentinriga.lv, <span style="font-size: 70%">07.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/ecf67b1386538cd97e949d795df21180');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/ecf67b1386538cd97e949d795df21180');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/ecf67b1386538cd97e949d795df21180" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                                                                            &middot; Unique ad views: 703
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/01.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/02.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/03.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/04.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/05.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/06.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/07.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/08.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/09.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/10.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/11.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/12.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/13.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/14.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/15.jpg" alt="Slokas 31A, Agenskalns, Riga, Latvia">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.rentinriga.lv%2Fen%2Fdzivoklis%2Fire%2F49855&amp;d=2020-08-20&amp;h=6a654c59063e523c80ca7382ccc9b32e');" rel="nofollow">
+                        Rent out flat - 4 bdr - 1/3 floor - 187 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>900</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Yaunibas 11, Bergi, Riga, Latvia. New building. Gas heating. Parking. 
+                                            </span>
+                    <span class="property-address">&#8594; rentinriga.lv, <span style="font-size: 70%">07.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/5c079b96457bf98e4b6262ae43717d2d');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/5c079b96457bf98e4b6262ae43717d2d');" rel="nofollow">Go tour this home</a>
+                                                                                                                            &middot; Unique ad views: 488
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/01.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/02.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/03.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/04.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/05.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/06.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/07.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/08.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/09.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/10.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/11.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/12.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/13.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/14.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/15.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/16.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/17.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/18.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/19.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/20.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/21.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/22.jpg" alt="Yaunibas 11, Bergi, Riga, Latvia">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.rentinriga.lv%2Fen%2Fdzivoklis%2Fpardosana%2F49852&amp;d=2020-08-20&amp;h=9d99c3f70876fa02f608ce4dc6dfc79d');" rel="nofollow">
+                        Selling flat - 3 bdr - 3/5 floor - 85.6 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>155&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia. Renovated house. Elevator. Central heating. Parking. 
+                                            </span>
+                    <span class="property-address">&#8594; rentinriga.lv, <span style="font-size: 70%">06.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/cfefb94c54ef8a541978b44efd253ef9');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/cfefb94c54ef8a541978b44efd253ef9');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/cfefb94c54ef8a541978b44efd253ef9" class="property-city" rel="nofollow">
+                                                                    Good price
+                                                                                                    <span class="property-profit">(<span>10&nbsp;436</span>€)</span>
+                                                            </a>
+                                                                            &middot; <a href="https://manyflats.com/en/payback/cfefb94c54ef8a541978b44efd253ef9" class="property-city" rel="nofollow">
+                                                                    Interest analysis
+                                
+                                                            </a>
+                                                                                                    &middot; Unique ad views: 869
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/01.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/02.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/03.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/04.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/05.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/06.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/07.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/08.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/09.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/10.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/11.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/12.jpg" alt="Grecinieku 26, Vecriga, Old city, Historic centre, Riga, Latvia">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.ss.com%2Fmsg%2Flv%2Freal-estate%2Fhomes-summer-residences%2Frezekne-and-reg%2Frezekne%2Fdjiig.html&amp;d=2020-08-20&amp;h=bf087301abe4d87c2bd423251bd7866b');" rel="nofollow">
+                        Selling house - 3 bdr - 1 floor - 70 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>39&nbsp;900</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Saules iela 3b, Rezekne, Latvia. The land near the house is 0.06 sq.m. 
+                                            </span>
+                    <span class="property-address">&#8594; ss.com, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/05ef3a2879ffac8b3f6468834bcfccac');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/05ef3a2879ffac8b3f6468834bcfccac');" rel="nofollow">Go tour this home</a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wy6p4c&amp;d=2020-08-20&amp;h=ab04ab53693d053551087c8e820510d0');" rel="nofollow">
+                        Selling house - 5 bdr - 115 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>139&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Rhauderfehn, Germany. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/5239ead67f0509c8a362d6515dc5ba19');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/5239ead67f0509c8a362d6515dc5ba19');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/5239ead67f0509c8a362d6515dc5ba19" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w2yn4c&amp;d=2020-08-20&amp;h=72542aef612a8b8083ae16d5df99bb64');" rel="nofollow">
+                        Rent out flat - 2 bdr - 45 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>279</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Feldhauser Strasse 220, Sholven, Gelsenkirchen, Germany. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/0d341468ae878677523d132635b682ae');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/0d341468ae878677523d132635b682ae');" rel="nofollow">Go tour this home</a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wcwn4c&amp;d=2020-08-20&amp;h=9f3981633c0a8853622af03d37aba0f7');" rel="nofollow">
+                        Rent out flat - 2 bdr - 1 floor - 53.5 sq.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>349</span>€/mo.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Shneider-Paas-Strasse 14, Wethmar, Lunen, Germany. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/agent/09b784afc8b6a192729459c60cf8c050');" rel="nofollow">Contact the agent</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/en/tour/09b784afc8b6a192729459c60cf8c050');" rel="nofollow">Go tour this home</a>
+                                                    &middot; <a href="https://manyflats.com/en/price-comparison/09b784afc8b6a192729459c60cf8c050" class="property-city" rel="nofollow">
+                                                                    Price comparison
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+            </div>
+                <ul class="pagination">
+                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=1" rel="nofollow">1</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=2" rel="nofollow">2</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=3" rel="nofollow">3</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=4" rel="nofollow">4</a></li>
+                                                            <li
+                                            class="active"
+                                    ><a href="https://manyflats.com/en/search?p=5" rel="nofollow">5</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=6" rel="nofollow">6</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=7" rel="nofollow">7</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=8" rel="nofollow">8</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=9" rel="nofollow">9</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/en/search?p=10" rel="nofollow">10</a></li>
+                                    </ul>
+    </div>
+
+<div class="footer">
+    
+    <a href="https://manyflats.com/en/terms">Conditions</a>
+    <a href="https://manyflats.com/en/policy">Confidentiality</a>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="/js/jquery.autocomplete.min.js?id=8510d0a489061ba21a93"></script> 
+<script src="/js/all.js?id=7756898f0f3993035367"></script>
+<script src="/js/click.js?id=7962f4d193beb0144a92"></script>
+    <script src="/js/geo.js?id=ddef2c240ef84d7279e1"></script>
+<script src="/js/slider.js?id=2fd359627020c93d2e77"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.owl-carousel').owlCarousel({
+            items:1,
+            lazyLoad:true,
+            margin:8,
+            nav:false,
+            loop:false,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                380:{
+                    items:2
+                },
+                980:{
+                    items:3
+                },
+            }
+        });
+    });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171779387-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-171779387-1');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(62179063, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/62179063" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>

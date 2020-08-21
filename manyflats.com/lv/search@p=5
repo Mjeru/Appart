@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ManyFlats - nekustamo īpašumu meklēšana visās vietnēs pasaulē</title>
+    <meta name="description" content="140541 nekustamā īpašuma objekti, labākie paziņojumi par : Rīga, Rēzekne, Rhauderfehn, Gelsenkirchen, Lunen, Āgenskalns, Rēzekne un raj., Niedersachsen, Nordrhein-Westfalen, Berģi, Vecrīga, Sholven, Wethmar">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+        <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/css/style.css?id=529da3e71d0d393f5eef">
+    <link rel="stylesheet" type="text/css" href="/css/slider.css?id=597f91b2a8a4315463aa">
+
+    <link rel="alternate" hreflang="x-default" href="https://manyflats.com/lv/home" />
+            <link rel="alternate" hreflang="en" href="https://manyflats.com/en/search?p=5" />
+            <link rel="alternate" hreflang="lv" href="https://manyflats.com/lv/search?p=5" />
+            <link rel="alternate" hreflang="ru" href="https://manyflats.com/ru/search?p=5" />
+    </head>
+<body>
+
+<a class="home-link" href="https://manyflats.com/lv/search"><img src="/images/logo.webp" alt="Sistēma izdevīgā nekustamā īpašuma&amp;nbsp;meklēšanai"></a>
+
+<a href="https://manyflats.com/lv/add"><div class="add-property animated">Mākleriem</div></a>
+
+<ul class="lang-block lclosed">
+            <li ><a href="https://manyflats.com/en/search?p=5" rel="nofollow"><span class="flag en"></span><span>en</span></a></li>
+            <li  class="act"><a href="https://manyflats.com/lv/search?p=5" rel="nofollow"><span class="flag lv"></span><span>lv</span></a></li>
+            <li ><a href="https://manyflats.com/ru/search?p=5" rel="nofollow"><span class="flag ru"></span><span>ru</span></a></li>
+    </ul>
+
+<div class="container animated">
+    <form class="search-form" action="https://manyflats.com/lv/search" placeholderservice="https://manyflats.com/lv/query">
+        <input name="f" class="search-field" type="text" placeholder="Valsts, reģions, pilsēta, rajons vai adrese" value="">
+        <span>
+            <button class="search-button animated" type="submit">
+                <svg enable-background="new 0 0 512 512" height="30px" width="30px" id="Layer_1" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g>
+                        <path d="M338.279,307.471l96.115,96.115l0,0c11.402,11.403,12.125,31.003,0.078,43.053    c-12.051,12.051-31.707,11.659-43.754-0.389l-95.609-95.608L338.279,307.471" fill="white" />
+                        <path d="M356.199,325.391l-21.992,21.992l99.516,99.516l0.42,0.065l0.068-0.066    c11.98-12.054,11.566-31.929,0.184-43.312l0,0L356.199,325.391" fill="white" />
+                        <path d="M95.538,107.282c-67.688,67.689-67.688,177.432,0,245.12c67.688,67.688,177.431,67.688,245.121,0    c67.688-67.688,67.686-177.431-0.002-245.118C272.967,39.596,163.225,39.596,95.538,107.282z M306.553,321.104    c-49.486,49.486-129.718,49.487-179.207,0c-49.485-49.486-49.484-129.719,0.002-179.205    c49.485-49.486,129.718-49.487,179.205-0.001C356.039,191.385,356.039,271.617,306.553,321.104z" fill="white" />
+                    </g>
+                </svg><span>Meklēt</span>
+            </button>
+        </span>
+    </form>
+</div>
+
+<div class="filters-block">
+    <div id="all-filters" class="all-filters">
+        <button class="dropbtn"
+                onclick="document.getElementById('all-filters').style.display='none'; document.getElementById('filter-buttons').style.display='block';">Filtri
+        </button>
+    </div>
+    <div id="filter-buttons" class="filter-buttons">
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Izdevīgi</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+zem+tirgus+cenas">zem tirgus cenas</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+ar+lielu+pe%C4%BC%C5%86u+no+ieguld%C4%ABjumiem">ar lielu peļņu no ieguldījumiem</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Darijuma veids</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nopirkt+dz%C4%ABvokli">Pirkt dzīvokli</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=%C4%AAr%C4%93t+dz%C4%ABvokli">Īrēt dzīvokli</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nopirkt+m%C4%81ju">Pirkt māju</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=%C4%AAr%C4%93t+m%C4%81ju">Īre māju</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Valsts</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+blakus+man">Blakus man</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Francij%C4%81">Francija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Grie%C4%B7ij%C4%81">Grieķija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Horv%C4%81tij%C4%81">Horvātija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+It%C4%81lij%C4%81">Itālija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+%C4%AArij%C4%81">Īrija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Kan%C4%81d%C4%81">Kanāda</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Latvij%C4%81">Latvija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Polij%C4%81">Polija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Portug%C4%81l%C4%93">Portugāle</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Sp%C4%81nij%C4%81">Spānija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+V%C4%81cij%C4%81">Vācija</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+Zviedrij%C4%81">Zviedrija</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Istabas</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=%C4%AApa%C5%A1ums+ar+1+gu%C4%BCamistabu">1 istaba</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=%C4%AApa%C5%A1ums+ar+2+gu%C4%BCamistabam">2 istabas</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=%C4%AApa%C5%A1ums+ar+3+gu%C4%BCamistabam">3 istabas</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=%C4%AApa%C5%A1ums+ar+4+gu%C4%BCamistabam">4 istabas</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Stāvs</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+ne+pirmais+un+ne+aug%C5%A1%C4%93j%C4%81+st%C4%81vs">ne pirmais un ne pēdējais</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+ne+pirmais+st%C4%81vs">ne pirmais</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+ne+p%C4%93d%C4%93jais+st%C4%81vs">ne pēdējais</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+pirmaj%C4%81+st%C4%81v%C4%81">tikai pirmais</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+aug%C5%A1%C4%93j%C4%81+st%C4%81v%C4%81">tikai pēdējais</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Cena</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+cena+l%C4%ABdz+50000">līdz 50000</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+cena+no+50000+l%C4%ABdz+100000">no 50000 līdz 100000</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums+cena+no+100000">no 100000</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Šķirošana</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+l%C4%93t%C4%81ki+s%C4%81kum%C4%81">pēc cenas (lētakas priekšā)</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+d%C4%81rg%C4%81kie+s%C4%81kum%C4%81">pēc cenas (sākumā dārgakas)</a>
+                                                                                                                                                            <a href="https://manyflats.com/lv/search?f=Nekustamais+%C4%ABpa%C5%A1ums%2C+jaunie+s%C4%81kum%C4%81">pēc pievienošanas datuma</a>
+                                                                                        </div>
+            </div>
+            </div>
+</div>
+
+<h3 class="fresult-label">
+                    Aptuveni <span>140541</span> rezultāti datu bāzē, 2. lapa (0,01 sekundes)
+        <span class="nobr">
+        &#8594;
+            <a href="https://www.facebook.com/manyflatscom/" target="_blank" rel="nofollow"><img src="/images/icon/facebook.png" alt="ManyFlats" class="social-icon"></a>
+                        <a href="https://t.me/manyflatscom" target="_blank" rel="nofollow"><img src="/images/icon/telegram.png" alt="ManyFlats" class="social-icon"></a>
+        
+        </span>
+    </h3>
+
+<div class="top-properties-container">
+    <div class="properties">
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.realat.lv%2Flv%2Fpardod%2Fdzivokli%2Friga%2Fagenskalns%2Fsabiles-iela-8%2F2-istabas%2Fjaun%2F20491%2F&amp;d=2020-08-20&amp;h=406d193e8aaa9b7658e61e71be7f1950');" rel="nofollow">
+                        Pārdošu dzīvokli - 2 ist. - 3/3 stāv. - 69 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>117&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Sabiles iela 8, Rīga, Latvija. Jaunbūve. Gāzes apkure. Autostāvvieta. 
+                                            </span>
+                    <span class="property-address">&#8594; realat.lv, <span style="font-size: 70%">07.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/3ab8b64a322f2c38fc531f3c6773c505');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/3ab8b64a322f2c38fc531f3c6773c505');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/3ab8b64a322f2c38fc531f3c6773c505" class="property-city" rel="nofollow">
+                                                                    Cenu analīze
+                                                                                            </a>
+                                                                            &middot; <a href="https://manyflats.com/lv/payback/3ab8b64a322f2c38fc531f3c6773c505" class="property-city" rel="nofollow">
+                                                                    Ienesīguma analīze
+                                
+                                                            </a>
+                                                                                                    &middot; Unikālo apmeklējumu skaits: 953
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/01.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/02.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/03.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/04.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/05.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/06.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/07.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/08.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/09.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/10.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/11.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/12.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/13.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/14.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/15.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/16.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/17.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/18.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/19.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/20.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/21.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/22.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/23.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/24.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/25.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/3/a/b8b64a322f2c38fc531f3c6773c505/26.jpg" alt="">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.realat.lv%2Flv%2Fpardod%2Fdzivokli%2Friga%2Fagenskalns%2Fsabiles-iela-8%2F2-istabas%2Fjaun%2F20490%2F&amp;d=2020-08-20&amp;h=149dc42b3dd79ffb710f4ae9c216fa19');" rel="nofollow">
+                        Pārdošu dzīvokli - 2 ist. - 3/3 stāv. - 73 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>124&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Sabiles iela 8, Rīga, Latvija. Jaunbūve. Gāzes apkure. Autostāvvieta. 
+                                            </span>
+                    <span class="property-address">&#8594; realat.lv, <span style="font-size: 70%">07.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/89d69dde0cc447066882315c9b2e61cb');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/89d69dde0cc447066882315c9b2e61cb');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/89d69dde0cc447066882315c9b2e61cb" class="property-city" rel="nofollow">
+                                                                    Cenu analīze
+                                                                                            </a>
+                                                                            &middot; <a href="https://manyflats.com/lv/payback/89d69dde0cc447066882315c9b2e61cb" class="property-city" rel="nofollow">
+                                                                    Ienesīguma analīze
+                                
+                                                            </a>
+                                                                                                    &middot; Unikālo apmeklējumu skaits: 948
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/01.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/02.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/03.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/04.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/05.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/06.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/07.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/08.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/09.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/10.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/11.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/12.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/13.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/14.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/15.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/16.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/17.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/18.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/19.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/20.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/21.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/22.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/23.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/24.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/25.jpg" alt="">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/8/9/d69dde0cc447066882315c9b2e61cb/26.jpg" alt="">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.realat.lv%2Flv%2Fpardod%2Fdzivokli%2Friga%2Fagenskalns%2Fsabiles-iela-8%2F4-istabas%2Fjaun%2F22892%2F&amp;d=2020-08-20&amp;h=4fc68a1fc7fd81135812f1268d78233b');" rel="nofollow">
+                        Pārdošu dzīvokli - 4 ist. - 3/3 stāv. - 101 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>171&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Sabiles iela 8, Rīga, Latvija. Jaunbūve. Gāzes apkure. Autostāvvieta. 
+                                            </span>
+                    <span class="property-address">&#8594; realat.lv, <span style="font-size: 70%">07.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/dc9fc88d335b5d85bc9fb63151568ff9');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/dc9fc88d335b5d85bc9fb63151568ff9');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/dc9fc88d335b5d85bc9fb63151568ff9" class="property-city" rel="nofollow">
+                                                                    Izdevīga cena
+                                                                                                    <span class="property-profit">(<span>7&nbsp;772</span>€)</span>
+                                                            </a>
+                                                                                                                            &middot; Unikālo apmeklējumu skaits: 1062
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/01.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/02.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/03.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/04.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/05.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/06.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/07.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/08.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/09.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/10.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/11.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/12.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/13.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/14.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/15.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/16.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/17.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/18.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/19.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/20.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/21.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/22.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/23.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/24.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/25.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/26.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/27.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/28.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/29.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/30.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/31.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/32.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/33.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/34.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/35.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/36.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/37.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/38.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/39.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/40.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/41.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/42.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/43.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/44.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/45.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/46.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/47.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/48.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/d/c/9fc88d335b5d85bc9fb63151568ff9/49.jpg" alt="Sabiles iela 8, Rīga, Latvija">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.rentinriga.lv%2Flv%2Fdzivoklis%2Fire%2F49856&amp;d=2020-08-20&amp;h=30048441557931a3ad33fb8670179745');" rel="nofollow">
+                        Izīrē dzīvokli - 2 ist. - 65 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>650</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Slokas 31A, Āgenskalns, Rīga, Latvija. Renovēta māja. Dzīvoklis ir mēbelēts. Centrālā apkure. Autostāvvieta. 
+                                            </span>
+                    <span class="property-address">&#8594; rentinriga.lv, <span style="font-size: 70%">07.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/ecf67b1386538cd97e949d795df21180');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/ecf67b1386538cd97e949d795df21180');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/ecf67b1386538cd97e949d795df21180" class="property-city" rel="nofollow">
+                                                                    Cenu analīze
+                                                                                            </a>
+                                                                                                                            &middot; Unikālo apmeklējumu skaits: 704
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/01.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/02.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/03.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/04.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/05.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/06.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/07.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/08.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/09.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/10.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/11.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/12.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/13.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/14.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/e/c/f67b1386538cd97e949d795df21180/15.jpg" alt="Slokas 31A, Āgenskalns, Rīga, Latvija">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.rentinriga.lv%2Flv%2Fdzivoklis%2Fire%2F49855&amp;d=2020-08-20&amp;h=3fa6258876ca44b8391361514ac53daf');" rel="nofollow">
+                        Izīrē dzīvokli - 4 ist. - 1/3 stāv. - 187 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>900</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Jaunības 11, Berģi, Rīga, Latvija. Jaunbūve. Gāzes apkure. Autostāvvieta. 
+                                            </span>
+                    <span class="property-address">&#8594; rentinriga.lv, <span style="font-size: 70%">07.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/5c079b96457bf98e4b6262ae43717d2d');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/5c079b96457bf98e4b6262ae43717d2d');" rel="nofollow">Ierakstīt apskatei</a>
+                                                                                                                            &middot; Unikālo apmeklējumu skaits: 489
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/01.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/02.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/03.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/04.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/05.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/06.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/07.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/08.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/09.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/10.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/11.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/12.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/13.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/14.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/15.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/16.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/17.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/18.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/19.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/20.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/21.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/5/c/079b96457bf98e4b6262ae43717d2d/22.jpg" alt="Jaunības 11, Berģi, Rīga, Latvija">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.rentinriga.lv%2Flv%2Fdzivoklis%2Fpardosana%2F49852&amp;d=2020-08-20&amp;h=64395863ed3a609918008e224af3e5a7');" rel="nofollow">
+                        Pārdošu dzīvokli - 3 ist. - 3/5 stāv. - 85.6 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>155&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Grēcinieku 26, Vecrīga, Rīga, Latvija. Renovēta māja. Lifts. Centrālā apkure. Autostāvvieta. 
+                                            </span>
+                    <span class="property-address">&#8594; rentinriga.lv, <span style="font-size: 70%">06.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/cfefb94c54ef8a541978b44efd253ef9');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/cfefb94c54ef8a541978b44efd253ef9');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/cfefb94c54ef8a541978b44efd253ef9" class="property-city" rel="nofollow">
+                                                                    Izdevīga cena
+                                                                                                    <span class="property-profit">(<span>10&nbsp;436</span>€)</span>
+                                                            </a>
+                                                                            &middot; <a href="https://manyflats.com/lv/payback/cfefb94c54ef8a541978b44efd253ef9" class="property-city" rel="nofollow">
+                                                                    Ienesīguma analīze
+                                
+                                                            </a>
+                                                                                                    &middot; Unikālo apmeklējumu skaits: 870
+                                            </span>
+                    
+                                            <div class="owl-carousel owl-theme owl-slider">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/01.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/02.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/03.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/04.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/05.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/06.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/07.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/08.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/09.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/10.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/11.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                            <img class="owl-lazy" data-src="https://manyflats.com/img/property/c/f/efb94c54ef8a541978b44efd253ef9/12.jpg" alt="Grēcinieku 26, Vecrīga, Rīga, Latvija">
+                                                    </div>
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.ss.com%2Fmsg%2Flv%2Freal-estate%2Fhomes-summer-residences%2Frezekne-and-reg%2Frezekne%2Fdjiig.html&amp;d=2020-08-20&amp;h=bf087301abe4d87c2bd423251bd7866b');" rel="nofollow">
+                        Pārdošu māju - 3 ist. - 1 stāv. - 70 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>39&nbsp;900</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Saules iela 3b, Rēzekne, Latvija. Zemes gabals pie mājas 0.06 kv.m. 
+                                            </span>
+                    <span class="property-address">&#8594; ss.com, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/05ef3a2879ffac8b3f6468834bcfccac');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/05ef3a2879ffac8b3f6468834bcfccac');" rel="nofollow">Ierakstīt apskatei</a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wy6p4c&amp;d=2020-08-20&amp;h=ab04ab53693d053551087c8e820510d0');" rel="nofollow">
+                        Pārdošu māju - 5 ist. - 115 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>139&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Rhauderfehn, Vācija. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/5239ead67f0509c8a362d6515dc5ba19');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/5239ead67f0509c8a362d6515dc5ba19');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/5239ead67f0509c8a362d6515dc5ba19" class="property-city" rel="nofollow">
+                                                                    Cenu analīze
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w2yn4c&amp;d=2020-08-20&amp;h=72542aef612a8b8083ae16d5df99bb64');" rel="nofollow">
+                        Izīrē dzīvokli - 2 ist. - 45 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>279</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Feldhauser Strasse 220, Sholven, Gelsenkirchen, Vācija. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/0d341468ae878677523d132635b682ae');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/0d341468ae878677523d132635b682ae');" rel="nofollow">Ierakstīt apskatei</a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wcwn4c&amp;d=2020-08-20&amp;h=9f3981633c0a8853622af03d37aba0f7');" rel="nofollow">
+                        Izīrē dzīvokli - 2 ist. - 1 stāv. - 53.5 kv.m.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>349</span>€/mēn.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Shneider-Paas-Strasse 14, Wethmar, Lunen, Vācija. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">20.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/agent/09b784afc8b6a192729459c60cf8c050');" rel="nofollow">Sazinieties ar aģentu</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/lv/tour/09b784afc8b6a192729459c60cf8c050');" rel="nofollow">Ierakstīt apskatei</a>
+                                                    &middot; <a href="https://manyflats.com/lv/price-comparison/09b784afc8b6a192729459c60cf8c050" class="property-city" rel="nofollow">
+                                                                    Cenu analīze
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+            </div>
+                <ul class="pagination">
+                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=1" rel="nofollow">1</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=2" rel="nofollow">2</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=3" rel="nofollow">3</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=4" rel="nofollow">4</a></li>
+                                                            <li
+                                            class="active"
+                                    ><a href="https://manyflats.com/lv/search?p=5" rel="nofollow">5</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=6" rel="nofollow">6</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=7" rel="nofollow">7</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=8" rel="nofollow">8</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=9" rel="nofollow">9</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/lv/search?p=10" rel="nofollow">10</a></li>
+                                    </ul>
+    </div>
+
+<div class="footer">
+    
+    <a href="https://manyflats.com/lv/terms">Nosacījumi</a>
+    <a href="https://manyflats.com/lv/policy">Konfidencialitāte</a>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="/js/jquery.autocomplete.min.js?id=8510d0a489061ba21a93"></script> 
+<script src="/js/all.js?id=7756898f0f3993035367"></script>
+<script src="/js/click.js?id=7962f4d193beb0144a92"></script>
+    <script src="/js/geo.js?id=ddef2c240ef84d7279e1"></script>
+<script src="/js/slider.js?id=2fd359627020c93d2e77"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.owl-carousel').owlCarousel({
+            items:1,
+            lazyLoad:true,
+            margin:8,
+            nav:false,
+            loop:false,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                380:{
+                    items:2
+                },
+                980:{
+                    items:3
+                },
+            }
+        });
+    });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171779387-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-171779387-1');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(62179063, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/62179063" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>

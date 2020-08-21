@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ÃÂÃÂµÃÂ´ÃÂ²ÃÂ¸ÃÂ¶ÃÂ¸ÃÂ¼ÃÂ¾Ã‘ÂÃ‘â€šÃ‘Å’ Ã‘Â 1 ÃÂºÃÂ¾ÃÂ¼ÃÂ½ÃÂ°Ã‘â€šÃÂ¾ÃÂ¹ - ManyFlats</title>
+    <meta name="description" content="140541 объектов недвижимости, лучшие предложения по запросу ÃÂÃÂµÃÂ´ÃÂ²ÃÂ¸ÃÂ¶ÃÂ¸ÃÂ¼ÃÂ¾Ã‘ÂÃ‘â€šÃ‘Å’ Ã‘Â 1 ÃÂºÃÂ¾ÃÂ¼ÃÂ½ÃÂ°Ã‘â€šÃÂ¾ÃÂ¹: Мюнхен, Рига, Дрезден, Ольденбург, Кулдига, Диттманнсдорф б Флоха, Талсы, Флинтбек, Баyерн, Сацхсен, Ниедерсацхсен, Кулдига ун рай., Талсы ун рай., Шлесвиг-Холштеин, Обергизинг, центр, Иннере Неустадт, Инненстадт, Пурвциемс, Западный парк">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+        <link rel="icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="/images/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="/css/style.css?id=529da3e71d0d393f5eef">
+    <link rel="stylesheet" type="text/css" href="/css/slider.css?id=597f91b2a8a4315463aa">
+
+    <link rel="alternate" hreflang="x-default" href="https://manyflats.com/ru/home" />
+            <link rel="alternate" hreflang="en" href="https://manyflats.com/en/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=9" />
+            <link rel="alternate" hreflang="lv" href="https://manyflats.com/lv/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=9" />
+            <link rel="alternate" hreflang="ru" href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=9" />
+    </head>
+<body>
+
+<a class="home-link" href="https://manyflats.com/ru/search"><img src="/images/logo.webp" alt="Поиск выгодной недвижимости"></a>
+
+<a href="https://manyflats.com/ru/add"><div class="add-property animated">Риэлторам</div></a>
+
+<ul class="lang-block lclosed">
+            <li ><a href="https://manyflats.com/en/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=9" rel="nofollow"><span class="flag en"></span><span>en</span></a></li>
+            <li ><a href="https://manyflats.com/lv/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=9" rel="nofollow"><span class="flag lv"></span><span>lv</span></a></li>
+            <li  class="act"><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=9" rel="nofollow"><span class="flag ru"></span><span>ru</span></a></li>
+    </ul>
+
+<div class="container animated">
+    <form class="search-form" action="https://manyflats.com/ru/search" placeholderservice="https://manyflats.com/ru/query">
+        <input name="f" class="search-field" type="text" placeholder="Страна, регион, город, район или адрес" value="ÃÂÃÂµÃÂ´ÃÂ²ÃÂ¸ÃÂ¶ÃÂ¸ÃÂ¼ÃÂ¾Ã‘ÂÃ‘â€šÃ‘Å’ Ã‘Â 1 ÃÂºÃÂ¾ÃÂ¼ÃÂ½ÃÂ°Ã‘â€šÃÂ¾ÃÂ¹">
+        <span>
+            <button class="search-button animated" type="submit">
+                <svg enable-background="new 0 0 512 512" height="30px" width="30px" id="Layer_1" version="1.1" viewBox="0 0 512 512" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g>
+                        <path d="M338.279,307.471l96.115,96.115l0,0c11.402,11.403,12.125,31.003,0.078,43.053    c-12.051,12.051-31.707,11.659-43.754-0.389l-95.609-95.608L338.279,307.471" fill="white" />
+                        <path d="M356.199,325.391l-21.992,21.992l99.516,99.516l0.42,0.065l0.068-0.066    c11.98-12.054,11.566-31.929,0.184-43.312l0,0L356.199,325.391" fill="white" />
+                        <path d="M95.538,107.282c-67.688,67.689-67.688,177.432,0,245.12c67.688,67.688,177.431,67.688,245.121,0    c67.688-67.688,67.686-177.431-0.002-245.118C272.967,39.596,163.225,39.596,95.538,107.282z M306.553,321.104    c-49.486,49.486-129.718,49.487-179.207,0c-49.485-49.486-49.484-129.719,0.002-179.205    c49.485-49.486,129.718-49.487,179.205-0.001C356.039,191.385,356.039,271.617,306.553,321.104z" fill="white" />
+                    </g>
+                </svg><span>Поиск</span>
+            </button>
+        </span>
+    </form>
+</div>
+
+<div class="filters-block">
+    <div id="all-filters" class="all-filters">
+        <button class="dropbtn"
+                onclick="document.getElementById('all-filters').style.display='none'; document.getElementById('filter-buttons').style.display='block';">Фильтры
+        </button>
+    </div>
+    <div id="filter-buttons" class="filter-buttons">
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Выгодно</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%BD%D0%B8%D0%B6%D0%B5+%D1%80%D1%8B%D0%BD%D0%BE%D1%87%D0%BD%D0%BE%D0%B9+%D1%86%D0%B5%D0%BD%D1%8B%2C+1">ниже рыночной цены</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%81+%D0%B2%D1%8B%D0%B3%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9+%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C%D1%8E%2C+1">выгодная окупаемость</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Объекты</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9A%D1%83%D0%BF%D0%BB%D1%8E+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83%2C+1">Куплю квартиру</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%A1%D0%BD%D0%B8%D0%BC%D1%83+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83%2C+1">Сниму квартиру</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9A%D1%83%D0%BF%D0%BB%D1%8E+%D0%B4%D0%BE%D0%BC%2C+1">Куплю дом</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%A1%D0%BD%D0%B8%D0%BC%D1%83+%D0%B4%D0%BE%D0%BC%2C+1">Сниму дом</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Страна</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%80%D1%8F%D0%B4%D0%BE%D0%BC+%D1%81%D0%BE+%D0%BC%D0%BD%D0%BE%D0%B9%2C+1">Рядом со мной</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B8%2C+1">Австрия</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8%2C+1">Германия</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B5%2C+1">Египет</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%2C+1">Испания</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8%2C+1">Италия</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B5%2C+1">Канада</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8%2C+1">Латвия</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%2C+1">Польша</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8%2C+1">Франция</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%B2+%D0%A1%D0%A8%D0%90%2C+1">США</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Комнат</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%81+1+%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%BE%D0%B9%2C+1">1 комната</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%81+2+%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0%D0%BC%D0%B8%2C+1">2 комнаты</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%81+3+%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0%D0%BC%D0%B8%2C+1">3 комнаты</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D1%81+4+%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0%D0%BC%D0%B8%2C+1">4 комнаты</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Этаж</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+1%2C+%D0%BD%D0%B5+%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9+%D0%B8+%D0%BD%D0%B5+%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9+%D1%8D%D1%82%D0%B0%D0%B6">не первый и не последний</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+1%2C+%D0%BD%D0%B5+%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9+%D1%8D%D1%82%D0%B0%D0%B6">не первый</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+1%2C+%D0%BD%D0%B5+%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9+%D1%8D%D1%82%D0%B0%D0%B6">не последний</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+1%2C+%D0%BD%D0%B0+%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%BC+%D1%8D%D1%82%D0%B0%D0%B6%D0%B5">только первый</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+1%2C+%D0%BD%D0%B0+%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D0%BC+%D1%8D%D1%82%D0%B0%D0%B6%D0%B5">только последний</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Цена</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%BF%D0%BE+%D1%86%D0%B5%D0%BD%D0%B5+%D0%B4%D0%BE+50000%2C+1">до 50000</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%BF%D0%BE+%D1%86%D0%B5%D0%BD%D0%B5+%D0%BE%D1%82+50000+%D0%B4%D0%BE+100000%2C+1">от 50000 до 100000</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C+%D0%BF%D0%BE+%D1%86%D0%B5%D0%BD%D0%B5+%D0%BE%D1%82+100000%2C+1">от 100000</a>
+                                                                                        </div>
+            </div>
+                    <div class="dropdown">
+                                                                                                                                                                                                                                                                                                                                                                                                                    <button class="dropbtn">Сортировка</button>
+                <div class="dropdown-content">
+                                                                                                                                                                                                <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+1%2C+%D0%B4%D0%B5%D1%88%D1%91%D0%B2%D1%8B%D0%B5+%D0%B2+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B5">по цене (дешёвые в начале)</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+1%2C+%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8%D0%B5+%D0%B2+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B5">по цене (дорогие в начале)</a>
+                                                                                                                                                            <a href="https://manyflats.com/ru/search?f=%D0%9D%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%2C+1%2C+%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B2+%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B5">по дате добавления</a>
+                                                                                        </div>
+            </div>
+            </div>
+</div>
+
+<h3 class="fresult-label">
+                    Результаты поиска по <span>140541</span> объектам недвижимости, страница 9 (0,14 сек.)
+        <span class="nobr">
+        &#8594;
+            <a href="https://www.facebook.com/manyflats/" target="_blank" rel="nofollow"><img src="/images/icon/facebook.png" alt="ManyFlats" class="social-icon"></a>
+                        <a href="https://t.me/manyflats" target="_blank" rel="nofollow"><img src="/images/icon/telegram.png" alt="ManyFlats" class="social-icon"></a>
+                <a href="https://vk.com/manyflatscom" target="_blank" rel="nofollow"><img src="/images/icon/vk.png" alt="ManyFlats" class="social-icon"></a>
+    
+        </span>
+                    <br><span style="font-size:80%; text-decoration:line-through">"ãâãâµãâ´ãâ²ãâ¸ãâ¶ãâ¸ãâ¼ãâ¾ã‘âã‘â€šã‘å’"</span>, <span style="font-size:80%; text-decoration:line-through">"ã‘â"</span>, <span style="font-size:80%; text-decoration:line-through">"ãâºãâ¾ãâ¼ãâ½ãâ°ã‘â€šãâ¾ãâ¹"</span>
+    </h3>
+
+<div class="top-properties-container">
+    <div class="properties">
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wr8z4b&amp;d=2020-08-20&amp;h=b7e6da8ca55400098c9ddeeec2c55614');" rel="nofollow">
+                        Сдам квартиру - 2 комн. - 4 эт. - 59 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>1&nbsp;120</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Ам Бергштеиг 1/ИФ.ОГ ли, Обергизинг, Мюнхен, Германия. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">18.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/8af77b3aa0970235e1e976ad97116598');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/8af77b3aa0970235e1e976ad97116598');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/8af77b3aa0970235e1e976ad97116598" class="property-city" rel="nofollow">
+                                                                    Анализ цены
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.ss.com%2Fmsg%2Fru%2Freal-estate%2Fflats%2Friga%2Fcentre%2Faidjn.html&amp;d=2020-08-20&amp;h=5323f3e64057e4228141f9e3a0858798');" rel="nofollow">
+                        Сдам квартиру - 1 комн. - 3/5 эт. - 33 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>60</span>€/день
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Калниня 1, центр, Рига, Латвия. Реновированный дом. Каменный дом. Все удобства. 
+                                            </span>
+                    <span class="property-address">&#8594; ss.com, <span style="font-size: 70%">18.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/0e3c1f84432de20a255bce3edc910a23');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/0e3c1f84432de20a255bce3edc910a23');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/0e3c1f84432de20a255bce3edc910a23" class="property-city" rel="nofollow">
+                                                                    Выгодная цена
+                                                                                                    <span class="property-profit">(<span>210</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w2tw4b&amp;d=2020-08-20&amp;h=9cb65046061e74ac5f7e1051d2bbfbdd');" rel="nofollow">
+                        Сдам квартиру - 3 комн. - 2 эт. - 86.8 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>781</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Хеинрицхштрассе 1, Иннере Неустадт, Дрезден, Германия. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">18.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/334854dc996dacb2d280ec34d71f3f42');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/334854dc996dacb2d280ec34d71f3f42');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/334854dc996dacb2d280ec34d71f3f42" class="property-city" rel="nofollow">
+                                                                    Выгодная цена
+                                                                                                    <span class="property-profit">(<span>31</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2wrfz4b&amp;d=2020-08-20&amp;h=ed8ab444b75d6fc4d901b3366f8a6132');" rel="nofollow">
+                        Сдам квартиру - 1 комн. - 36.7 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>325</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Йоханнисштрассе 1, Инненстадт, Ольденбург, Германия. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">18.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/c5e8fc6a0325b51a7e60fd2b35b59cfe');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/c5e8fc6a0325b51a7e60fd2b35b59cfe');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/c5e8fc6a0325b51a7e60fd2b35b59cfe" class="property-city" rel="nofollow">
+                                                                    Выгодная цена
+                                                                                                    <span class="property-profit">(<span>14</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.ss.com%2Fmsg%2Fru%2Freal-estate%2Fflats%2Friga%2Fpurvciems%2Fejmhl.html&amp;d=2020-08-20&amp;h=648519778f7601d83684ed6f17a2026b');" rel="nofollow">
+                        Сдам квартиру - 3 комн. - 1/5 эт. - 60 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>250</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Марса г. 1, Пурвциемс, Рига, Латвия. Литовский проект дома. Панельный дом. Все удобства. 
+                                            </span>
+                    <span class="property-address">&#8594; ss.com, <span style="font-size: 70%">18.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/7bc4bff737a283f85607172ef9e7adcf');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/7bc4bff737a283f85607172ef9e7adcf');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/7bc4bff737a283f85607172ef9e7adcf" class="property-city" rel="nofollow">
+                                                                    Выгодная цена
+                                                                                                    <span class="property-profit">(<span>95</span>€)</span>
+                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.ss.com%2Fmsg%2Fru%2Freal-estate%2Fflats%2Fkuldiga-and-reg%2Fkuldiga%2Fageok.html&amp;d=2020-08-20&amp;h=5f5649fe09475f31199a4ddbe15cbb3c');" rel="nofollow">
+                        Сдам квартиру - 3 комн. - 2/2 эт. - 62 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>300</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Ластекас 1, Кулдига, Латвия. Специальный проект дома. Кирпичный дом. Все удобства. 
+                                            </span>
+                    <span class="property-address">&#8594; ss.com, <span style="font-size: 70%">18.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/3ba424b995e9ec3f73ef81969d25ba16');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/3ba424b995e9ec3f73ef81969d25ba16');" rel="nofollow">Записаться на просмотр</a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w3yx4b&amp;d=2020-08-20&amp;h=797b594f1ed76fee05303a12fa6331e5');" rel="nofollow">
+                        Сдам квартиру - 1 комн. - 1 эт. - 31 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>777</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Мартин-Бехаим-Штр. 1, Западный парк, Мюнхен, Германия. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">18.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/70683eb70e73aadfb704140e9589f967');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/70683eb70e73aadfb704140e9589f967');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/70683eb70e73aadfb704140e9589f967" class="property-city" rel="nofollow">
+                                                                    Анализ цены
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w7bw4b&amp;d=2020-08-20&amp;h=e2455b881d6bbf01c3676c2eb697a388');" rel="nofollow">
+                        Продам дом с 6 комн. - 300 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>568&nbsp;000</span>€
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Ам Берг  1 А, Диттманнсдорф б Флоха, Германия. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">18.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/a7f200c2e5891dd1faf4a3a8cf7209a8');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/a7f200c2e5891dd1faf4a3a8cf7209a8');" rel="nofollow">Записаться на просмотр</a>
+                                                    &middot; <a href="https://manyflats.com/ru/price-comparison/a7f200c2e5891dd1faf4a3a8cf7209a8" class="property-city" rel="nofollow">
+                                                                    Анализ цены
+                                                                                            </a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.ss.com%2Fmsg%2Fru%2Freal-estate%2Fflats%2Ftalsi-and-reg%2Ftalsi%2Fdlkhe.html&amp;d=2020-08-20&amp;h=d68e214a7ece093fb2e94a61b44cb31a');" rel="nofollow">
+                        Сдам квартиру - 1 комн. - 36 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>150</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Целтниеку 1 11, Талсы, Латвия. Литовский проект дома. Панельный дом. Все удобства. 
+                                            </span>
+                    <span class="property-address">&#8594; ss.com, <span style="font-size: 70%">18.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/b85d0697c396d2591c3adc5a114482ae');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/b85d0697c396d2591c3adc5a114482ae');" rel="nofollow">Записаться на просмотр</a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+                    <div>
+                <div>
+                    
+                </div>
+                <div>
+                    <a href="#" class="property-name" onclick="return openLink('https://manyflats.com/click?l=https%3A%2F%2Fwww.immowelt.de%2Fexpose%2F2w4xq4b&amp;d=2020-08-20&amp;h=652a6b454252a957aeb6d77d660ebc15');" rel="nofollow">
+                        Сдам квартиру - 1 комн. - 41.4 кв.м.
+                                                    - <span style="color:#ce0e11">
+                                                            <span>261</span>€/мес.
+                                                        </span>
+                                                                        </a>
+                    <span class="property-desc">
+                        Мюхленхоф 1, Флинтбек, Германия. 
+                                            </span>
+                    <span class="property-address">&#8594; immowelt.de, <span style="font-size: 70%">18.08.2020</span></span>
+                    <span class="property-links">
+                        <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/agent/12ff61833b11b6b3d07168147f727205');" rel="nofollow">Связаться с агентом</a>
+                        &middot; <a href="#" class="property-city" onclick="return openLink('https://manyflats.com/ru/tour/12ff61833b11b6b3d07168147f727205');" rel="nofollow">Записаться на просмотр</a>
+                                                                                                                    </span>
+                    
+                                    </div>
+                <div>
+                    
+                </div>
+            </div>
+            </div>
+                <ul class="pagination">
+                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=1" rel="nofollow">1</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=2" rel="nofollow">2</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=3" rel="nofollow">3</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=4" rel="nofollow">4</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=5" rel="nofollow">5</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=6" rel="nofollow">6</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=7" rel="nofollow">7</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=8" rel="nofollow">8</a></li>
+                                                            <li
+                                            class="active"
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=9" rel="nofollow">9</a></li>
+                                                            <li
+                                    ><a href="https://manyflats.com/ru/search?f=%C3%83%C2%90%C3%82%C2%9D%C3%83%C2%90%C3%82%C2%B5%C3%83%C2%90%C3%82%C2%B4%C3%83%C2%90%C3%82%C2%B2%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%B6%C3%83%C2%90%C3%82%C2%B8%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BE%C3%83%E2%80%98%C3%82%C2%81%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%E2%80%98%C3%85%E2%80%99%20%C3%83%E2%80%98%C3%82%C2%81%201%20%C3%83%C2%90%C3%82%C2%BA%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%BC%C3%83%C2%90%C3%82%C2%BD%C3%83%C2%90%C3%82%C2%B0%C3%83%E2%80%98%C3%A2%E2%82%AC%C5%A1%C3%83%C2%90%C3%82%C2%BE%C3%83%C2%90%C3%82%C2%B9&amp;p=10" rel="nofollow">10</a></li>
+                                    </ul>
+    </div>
+
+<div class="footer">
+    
+    <a href="https://manyflats.com/ru/terms">Условия</a>
+    <a href="https://manyflats.com/ru/policy">Конфиденциальность</a>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="/js/jquery.autocomplete.min.js?id=8510d0a489061ba21a93"></script> 
+<script src="/js/all.js?id=7756898f0f3993035367"></script>
+<script src="/js/click.js?id=7962f4d193beb0144a92"></script>
+    <script src="/js/geo.js?id=ddef2c240ef84d7279e1"></script>
+<script src="/js/slider.js?id=2fd359627020c93d2e77"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.owl-carousel').owlCarousel({
+            items:1,
+            lazyLoad:true,
+            margin:8,
+            nav:false,
+            loop:false,
+            responsiveClass:true,
+            responsive:{
+                0:{
+                    items:1
+                },
+                380:{
+                    items:2
+                },
+                980:{
+                    items:3
+                },
+            }
+        });
+    });
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171779387-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-171779387-1');
+</script>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(62179063, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+    });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/62179063" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>
