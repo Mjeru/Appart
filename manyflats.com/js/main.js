@@ -170,24 +170,77 @@ Reference: http://jsfiddle.net/BB3JK/47/
 		};
 	});
 
-	let search__drop = document.querySelectorAll(".search__drop");
-	[].forEach.call(search__drop, (element) => {
+	// let search__drop = document.querySelectorAll(".search__drop");
+	// [].forEach.call(search__drop, (element) => {
+	// 	console.log("start");
+	// 	element.onclick = (e) => {
+	// 		console.log(!e.target.classList.contains("droped") + "asd");
+	// 		if (!e.target.parentNode.classList.contains("droped") == true) {
+	// 			if (e.target.classList.contains("search__drop")) {
+	// 				e.target.classList.add("parent-hover");
+	// 			}
+	// 			[].forEach.call(e.target.parentNode.children, (element) => {
+	// 				console.log(element.tagName == "UL");
+	// 				if (element.tagName == "UL") {
+	// 					element.classList.add("show");
+	// 					element.classList.remove("hidden");
+	// 				}
+	// 			});
+	// 		} else {
+	// 			if (e.target.parentNode.classList.contains("droped") == true) {
+	// 				if (e.target.classList.contains("search__drop")) {
+	// 					e.target.classList.remove("parent-hover");
+	// 				}
+	// 				[].forEach.call(e.target.parentNode.children, (element) => {
+	// 					console.log(element.tagName == "UL");
+	// 					if (element.tagName == "UL") {
+	// 						element.classList.remove("show");
+	// 						element.classList.add("hidden");
+	// 					}
+	// 				});
+
+	// 				return;
+	// 			}
+	// 		}
+	// 	};
+	// });
+
+	let search__dropA = document.querySelectorAll(".search__drop-link");
+	[].forEach.call(search__dropA, (element) => {
 		console.log("start");
 		element.onclick = (e) => {
-			console.log(e.target);
-			if (e.target.classList.contains("search__drop")) {
-				e.target.classList.add("parent-hover");
-			}
-			[].forEach.call(e.target.parentNode.children, (element) => {
-				console.log(element.tagName == "UL");
-				if (element.tagName == "UL") {
-					element.classList.add("show");
-					element.classList.remove("hidden");
-					console.log("compl");
+			console.log(!e.target.classList.contains("droped") + "asd");
+			if (!e.target.classList.contains("droped") == true) {
+				if (e.target.classList.contains("search__drop")) {
+					e.target.classList.add("parent-hover");
 				}
-			});
+				[].forEach.call(e.target.parentNode.children, (element) => {
+					console.log(element.tagName == "UL");
+					if (element.tagName == "UL") {
+						element.classList.add("show");
+						element.classList.remove("hidden");
+					}
+				});
+				e.target.classList.add("droped");
+			} else {
+				if (e.target.classList.contains("droped") == true) {
+					if (e.target.classList.contains("search__drop")) {
+						e.target.classList.remove("parent-hover");
+					}
+					[].forEach.call(e.target.parentNode.children, (element) => {
+						console.log(element.tagName == "UL");
+						if (element.tagName == "UL") {
+							element.classList.remove("show");
+							element.classList.add("hidden");
+						}
+					});
+					e.target.classList.remove("droped");
+					return;
+				}
+			}
 		};
 	});
+
 	$(".minPrice").mask("000.000.000.000.000", { reverse: true });
 	$(".maxPrice").mask("000.000.000.000.000", { reverse: true });
 });
