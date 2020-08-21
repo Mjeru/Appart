@@ -98,7 +98,7 @@
 			rel="stylesheet"
 			type="text/css"
 		/>
-		<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" />
+		<!-- <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" /> -->
 		<link rel="stylesheet" type="text/css" href="../css/style.css" />
 		<link rel="stylesheet" type="text/css" href="../css/slider.css" />
 
@@ -306,111 +306,120 @@
 				>
 			</li>
 		</ul>
-		<div class="animated start-page">
-            <form
-                name="searchForm"
-				class="search-form"
-				action="https://manyflats.com/ru/search"
-				placeholderservice="https://manyflats.com/ru/query"
-            >
-           
-            <label class="search-label">
-				<input
-					name="f"
-					class="search-field"
-					type="text"
-					placeholder="Место, город, район, улица или адрес"
-					value=""
-                ></input>
-                <div class="clear-input">X</div>
-                <label class="searcharea hidden">
-                    <input type="checkbox" id="localsearch" name="localsearch" value="localsearch" >
-                    <span>Искать в округе</span>
+		<div class="container">
+		    <div class="animated start-page">
+                <form
+                    name="searchForm"
+    				class="search-form"
+    				action="https://manyflats.com/ru/search"
+    				placeholderservice="https://manyflats.com/ru/query"
+                >
+               
+                <label class="search-label">
+    				<input
+    					name="f"
+    					class="search-field whith-clear"
+    					type="text"
+    					placeholder="Место, город, район, улица или адрес"
+    					value=""
+                    ></input>
+                    <div class="clear-input"></div>
+                    <label class="searcharea hidden">
+                        <input type="checkbox" id="localsearch" name="localsearch" value="localsearch" >
+                        <span>Искать в округе</span>
+                    </label>
                 </label>
-            </label>
-				<select id="mounth" class="">
-					<option value="hide">Все&nbsp;статусы</option>
-					<option value="clear">(пусто)</option>
-					<option value="february">Купить</option>
-					<option value="march">Снять</option>
-					<option value="april">Посуточно</option>
-					<option value="june">Аукцион</option>
-				</select>
-
-				<select id="year" name="testselect">
-					<option value="hide" disabled>Объекты</option>
-					<option value="clear">(пусто)</option>
-					<option value="2011">Квартиру</option>
-					<option value="2012">Дом</option>
-					<option value="2013">Комнату</option>
-					<option value="2014">Участок</option>
-					<option value="2015">Гараж или машиноместо</option>
-					<option value="2015">Коммерческую недвижимость</option>
-				</select>
-				<div class="search__drop sub__menu-parent">
-                    <a href="#">Цены</a>
-                    <ul class="sub__menu multi-col hidden">
-                        <li>
-                            <label class="search-label">
-                                <input
-                                    name="minPrice"
-                                    class="minPrice price-fied"
-                                    type="text"
-                                    pattern="^[0-9\.]*$"
-                                    placeholder="От"
-                                    value=""
-                                ></input>
-                                <div class="clear-input">X</div>
-                                
-                            </label>
-
-                            <label class="search-label">
-                                <input
-                                    name="maxPrice"
-                                    class="maxPrice price-fied"
-                                    type="text"
-                                    pattern="^[0-9\.]*$"
-                                    placeholder="До"
-                                    value=""
-                                ></input>
-                                <div class="clear-input">X</div>
-                                
-                            </label>
-                        </li>
-                    </ul>
-                </div>
-				<span>
-					<button class="search-button animated" type="submit">
-						<svg
-							enable-background="new 0 0 512 512"
-							height="30px"
-							width="30px"
-							id="Layer_1"
-							version="1.1"
-							viewBox="0 0 512 512"
-							xml:space="preserve"
-							xmlns="http://www.w3.org/2000/svg"
-							xmlns:xlink="http://www.w3.org/1999/xlink"
-						>
-							<g>
-								<path
-									d="M338.279,307.471l96.115,96.115l0,0c11.402,11.403,12.125,31.003,0.078,43.053    c-12.051,12.051-31.707,11.659-43.754-0.389l-95.609-95.608L338.279,307.471"
-									fill="white"
-								/>
-								<path
-									d="M356.199,325.391l-21.992,21.992l99.516,99.516l0.42,0.065l0.068-0.066    c11.98-12.054,11.566-31.929,0.184-43.312l0,0L356.199,325.391"
-									fill="white"
-								/>
-								<path
-									d="M95.538,107.282c-67.688,67.689-67.688,177.432,0,245.12c67.688,67.688,177.431,67.688,245.121,0    c67.688-67.688,67.686-177.431-0.002-245.118C272.967,39.596,163.225,39.596,95.538,107.282z M306.553,321.104    c-49.486,49.486-129.718,49.487-179.207,0c-49.485-49.486-49.484-129.719,0.002-179.205    c49.485-49.486,129.718-49.487,179.205-0.001C356.039,191.385,356.039,271.617,306.553,321.104z"
-									fill="white"
-								/>
-							</g>
-						</svg>
-						<span>Поиск</span>
-					</button>
-				</span>
-			</form>
+    				<select id="mounth" class="">
+    					<option value="hide">Все&nbsp;статусы</option>
+    					<option value="clear">(пусто)</option>
+    					<option value="february">Купить</option>
+    					<option value="march">Снять</option>
+    					<option value="april">Посуточно</option>
+    					<option value="june">Аукцион</option>
+    				</select>
+    
+    				<select id="year" name="testselect">
+    					<option value="hide" disabled>Объекты</option>
+    					<option value="clear">(пусто)</option>
+    					<option value="2011">Квартиру</option>
+    					<option value="2012">Дом</option>
+    					<option value="2013">Комнату</option>
+    					<option value="2014">Участок</option>
+    					<option value="2015">Гараж или машиноместо</option>
+    					<option value="2015">Коммерческую недвижимость</option>
+    				</select>
+    				<div class="search__drop">
+                        <a href="#" class="search__drop">Цены</a>
+                        <ul class="sub__menu multi-col hidden dropdown-search">
+                            <li>
+                                <label class="search-label dropdown-label">
+                                    <input
+                                        name="minPrice"
+                                        class="minPrice price-field whith-clear"
+                                        type="text"
+                                        pattern="^[0-9\.]*$"
+                                        placeholder="От"
+                                        value=""
+                                    ></input>
+                                    <div class="clear-input"></div>
+                                    
+                                </label>
+    
+                                <label class="search-label">
+                                    <input
+                                        name="maxPrice"
+                                        class="maxPrice price-field whith-clear"
+                                        type="text"
+                                        pattern="^[0-9\.]*$"
+                                        placeholder="До"
+                                        value=""
+                                    ></input>
+                                    <div class="clear-input"></div>
+                                </label>
+                                <label class="pricebox-label">
+                                    <input type="radio" name="pricebox" class="pricebox" value="full">
+                                    За&nbsp;все
+                                </label>
+                                <label class="pricebox-label">
+                                    <input type="radio" name="pricebox" class="pricebox" value="squear">
+                                    За&nbsp;кв.м
+                                </label>
+                            </li>
+                        </ul>
+                    </div>
+    				<span>
+    					<button class="search-button animated" type="submit">
+    						<svg
+    							enable-background="new 0 0 512 512"
+    							height="30px"
+    							width="30px"
+    							id="Layer_1"
+    							version="1.1"
+    							viewBox="0 0 512 512"
+    							xml:space="preserve"
+    							xmlns="http://www.w3.org/2000/svg"
+    							xmlns:xlink="http://www.w3.org/1999/xlink"
+    						>
+    							<g>
+    								<path
+    									d="M338.279,307.471l96.115,96.115l0,0c11.402,11.403,12.125,31.003,0.078,43.053    c-12.051,12.051-31.707,11.659-43.754-0.389l-95.609-95.608L338.279,307.471"
+    									fill="white"
+    								/>
+    								<path
+    									d="M356.199,325.391l-21.992,21.992l99.516,99.516l0.42,0.065l0.068-0.066    c11.98-12.054,11.566-31.929,0.184-43.312l0,0L356.199,325.391"
+    									fill="white"
+    								/>
+    								<path
+    									d="M95.538,107.282c-67.688,67.689-67.688,177.432,0,245.12c67.688,67.688,177.431,67.688,245.121,0    c67.688-67.688,67.686-177.431-0.002-245.118C272.967,39.596,163.225,39.596,95.538,107.282z M306.553,321.104    c-49.486,49.486-129.718,49.487-179.207,0c-49.485-49.486-49.484-129.719,0.002-179.205    c49.485-49.486,129.718-49.487,179.205-0.001C356.039,191.385,356.039,271.617,306.553,321.104z"
+    									fill="white"
+    								/>
+    							</g>
+    						</svg>
+    						<span>Поиск</span>
+    					</button>
+    				</span>
+    			</form>
+    		</div>
 		</div>
 
 		
@@ -4300,6 +4309,7 @@
 		<script src="../js/click.js@id=7962f4d193beb0144a92"></script>
 		<script src="../js/geo.js@id=ddef2c240ef84d7279e1"></script>
 		<script src="../js/slider.js@id=2fd359627020c93d2e77"></script>
+		<script src="../js/jquery.mask.min.js"></script>
 		<script src="../js/main.js" defer></script>
 		<script type="text/javascript">
 			$(document).ready(function () {

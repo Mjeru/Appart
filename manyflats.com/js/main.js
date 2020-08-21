@@ -114,7 +114,18 @@ Reference: http://jsfiddle.net/BB3JK/47/
 			$styledSelect.removeClass("active");
 			$list.hide();
 		});
-		document.querySelector(".search-field").addEventListener("input", (e) => {
+		[].forEach.call(document.querySelectorAll(".whith-clear"), (element) => {
+			element.oninput = (e) => {
+				if (e.target.value !== "") {
+					e.target.parentNode.querySelector(".clear-input").style =
+						"opacity: 1;";
+				} else {
+					e.target.parentNode.querySelector(".clear-input").style =
+						"opacity: 0;";
+				}
+			};
+		});
+		document.querySelector(".whith-clear").addEventListener("input", (e) => {
 			e.target.value;
 			console.log(document.querySelector(".clear-input").style.opasity);
 			if (e.target.value !== "") {
@@ -158,4 +169,25 @@ Reference: http://jsfiddle.net/BB3JK/47/
 			// 	});
 		};
 	});
+
+	let search__drop = document.querySelectorAll(".search__drop");
+	[].forEach.call(search__drop, (element) => {
+		console.log("start");
+		element.onclick = (e) => {
+			console.log(e.target);
+			if (e.target.classList.contains("search__drop")) {
+				e.target.classList.add("parent-hover");
+			}
+			[].forEach.call(e.target.parentNode.children, (element) => {
+				console.log(element.tagName == "UL");
+				if (element.tagName == "UL") {
+					element.classList.add("show");
+					element.classList.remove("hidden");
+					console.log("compl");
+				}
+			});
+		};
+	});
+	$(".minPrice").mask("000.000.000.000.000", { reverse: true });
+	$(".maxPrice").mask("000.000.000.000.000", { reverse: true });
 });
