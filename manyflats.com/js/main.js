@@ -81,7 +81,7 @@ Reference: http://jsfiddle.net/BB3JK/47/
 
 		$styledSelect.click(function (e) {
 			e.stopPropagation();
-			if (e.target.classList.contain(".droplist")) {
+			if (e.target.classList.contains(".droplist")) {
 				return;
 			}
 			$("div.select-styled.active")
