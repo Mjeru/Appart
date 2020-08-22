@@ -397,38 +397,38 @@
                             </li>
                             <li>
                                 <label class="filter-label">
-                                    <input type="checkbox" name="filter1" class="filter_input" value="filter1">
-                                    <a href="#">Фильтр1</a>
+                                    <input type="radio" name="filter" class="filter_input" value="filter1">
+                                    <a href="#" class="filter-label-link">Фильтр1</a>
                                 </label>
                             </li>
                             <li>
                                 <label class="filter-label">
-                                    <input type="checkbox" name="filter2" class="filter_input" value="filter2">
-                                    <a href="#">Фильтр2</a>
+                                    <input type="radio" name="filter" class="filter_input" value="filter2">
+                                    <a href="#" class="filter-label-link">Фильтр2</a>
                                 </label>
                             </li>
                             <li>
                                 <label class="filter-label">
-                                    <input type="checkbox" name="filter3" class="filter_input" value="filter3">
-                                    <a href="#">Фильтр3</a>
+                                    <input type="radio" name="filter" class="filter_input" value="filter3">
+                                    <a href="#" class="filter-label-link">Фильтр3</a>
                                 </label>
                             </li>
                             <li>
                                 <label class="filter-label">
-                                    <input type="checkbox" name="filter4" class="filter_input" value="filter4">
-                                    <a href="#">Фильтр4</a>
+                                    <input type="radio" name="filter" class="filter_input" value="filter4">
+                                    <a href="#" class="filter-label-link">Фильтр4</a>
                                 </label>
                             </li>
                             <li>
                                 <label class="filter-label">
-                                    <input type="checkbox" name="filter5" class="filter_input" value="filter5">
-                                    <a href="#">Фильтр5</a>
+                                    <input type="radio" name="filter" class="filter_input" value="filter5">
+                                    <a href="#" class="filter-label-link">Фильтр5</a>
                                 </label>
                             </li>
                             <li>
                                 <label class="filter-label">
-                                    <input type="checkbox" name="filter6" class="filter_input" value="filter6">
-                                    <a href="#">Фильтр6</a>
+                                    <input type="radio" name="filter" class="filter_input" value="filter6">
+                                    <a href="#" class="filter-label-link">Фильтр6</a>
                                 </label>
                             </li>
                         </ul>
@@ -4364,8 +4364,11 @@
 					items: 1,
 					lazyLoad: true,
 					margin: 8,
-					nav: false,
-					loop: false,
+					nav: true,
+                    loop: false,
+                    dots: false,
+                    info: true,
+
 					responsiveClass: true,
 					responsive: {
 						0: {
