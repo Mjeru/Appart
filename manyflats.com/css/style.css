@@ -1339,3 +1339,27 @@ input:focus:-ms-input-placeholder {
 .dropdown-label {
 	margin-right: 10px;
 }
+.filter_input {
+	display: none;
+}
+.filter-drop-list {
+	align-items: flex-end;
+}
+.filter-drop-list label {
+	width: 100%;
+	text-align: left;
+}
+.filter-drop-list li {
+	width: 100%;
+}
+.filter-drop-list a {
+	border: none;
+	text-align: end;
+	/* align-self: flex-end; */
+	display: block;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.filter-drop-list a:hover {
+	background-color: #e0e2e7;
+}

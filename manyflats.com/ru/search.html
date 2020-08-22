@@ -329,7 +329,7 @@
                         <span>Искать в округе</span>
                     </label>
                 </label>
-    				<select id="mounth" class="">
+    				<select id="status" name="status" class="">
     					<option value="hide">Все&nbsp;статусы</option>
     					<option value="clear">(пусто)</option>
     					<option value="february">Купить</option>
@@ -358,7 +358,7 @@
                                         class="minPrice price-field whith-clear"
                                         type="text"
                                         pattern="^[0-9\.]*$"
-                                        placeholder="От"
+                                        placeholder="Цена от"
                                         value=""
                                     ></input>
                                     <div class="clear-input"></div>
@@ -371,7 +371,7 @@
                                         class="maxPrice price-field whith-clear"
                                         type="text"
                                         pattern="^[0-9\.]*$"
-                                        placeholder="До"
+                                        placeholder="до"
                                         value=""
                                     ></input>
                                     <div class="clear-input"></div>
@@ -387,6 +387,53 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="search__drop">
+                        <a href="#" class="search__drop search__drop-link">Фильтры</a>
+                        <ul class="sub__menu hidden filter-drop-list">
+                            <li>
+                                <a href="#" class="filter-label">
+                                    Все фильтры
+                                </a>
+                            </li>
+                            <li>
+                                <label class="filter-label">
+                                    <input type="checkbox" name="filter1" class="filter_input" value="filter1">
+                                    <a href="#">Фильтр1</a>
+                                </label>
+                            </li>
+                            <li>
+                                <label class="filter-label">
+                                    <input type="checkbox" name="filter2" class="filter_input" value="filter2">
+                                    <a href="#">Фильтр2</a>
+                                </label>
+                            </li>
+                            <li>
+                                <label class="filter-label">
+                                    <input type="checkbox" name="filter3" class="filter_input" value="filter3">
+                                    <a href="#">Фильтр3</a>
+                                </label>
+                            </li>
+                            <li>
+                                <label class="filter-label">
+                                    <input type="checkbox" name="filter4" class="filter_input" value="filter4">
+                                    <a href="#">Фильтр4</a>
+                                </label>
+                            </li>
+                            <li>
+                                <label class="filter-label">
+                                    <input type="checkbox" name="filter5" class="filter_input" value="filter5">
+                                    <a href="#">Фильтр5</a>
+                                </label>
+                            </li>
+                            <li>
+                                <label class="filter-label">
+                                    <input type="checkbox" name="filter6" class="filter_input" value="filter6">
+                                    <a href="#">Фильтр6</a>
+                                </label>
+                            </li>
+                        </ul>
+                    </div>
+
     				<span>
     					<button class="search-button animated" type="submit">
     						<svg
