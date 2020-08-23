@@ -51,23 +51,30 @@ $(document).ready(() => {
 		};
 	});
 
-	/*
+	/*в
 Reference: http://jsfiddle.net/BB3JK/47/
 */
 
-	$("select").each(function () {
+	$("select").each(function (index) {
 		var $this = $(this),
 			numberOfOptions = $(this).children("option").length;
 		let dropClass = "";
 		$this.addClass("select-hidden");
 		$this.wrap('<div class="select"></div>');
-		$this.after('<div class="select-styled"></div>');
+		console.log($(this)[index]);
+		console.log(index);
+		if ($(this).hasClass("popup-disabled-select")) {
+			$this.after('<div class="select-styled popup-disabled-select"></div>');
+		} else {
+			$this.after('<div class="select-styled"></div>');
+		}
 
 		var $styledSelect = $this.next("div.select-styled");
 		$styledSelect.text($this.children("option").eq(0).text());
 
 		var $list = $("<ul />", {
-			class: "select-options",
+			class: "select-options ",
+			style: "display: none;",
 		}).insertAfter($styledSelect);
 
 		for (var i = 0; i < numberOfOptions; i++) {
@@ -240,7 +247,159 @@ Reference: http://jsfiddle.net/BB3JK/47/
 			}
 		};
 	});
+	[].forEach.call(
+		document.querySelectorAll(".filter-label-link"),
+		(element) => {
+			element.onclick = (e) => {
+				console.log(e.target.parentNode.tagName == "LABEL");
+				if (e.target.parentNode.tagName == "LABEL") {
+					e.target.parentNode.click();
+					document.forms.searchForm.submit();
+				}
+			};
+		}
+	);
+	(function () {
+		function disableScroll() {
+			let padding = window.innerWidth - document.body.offsetWidth;
+			let pagePosition = window.scrollY;
+			document.body.classList.add(`lock`);
+			document.body.dataset.position = pagePosition;
+			document.body.style.top = -pagePosition + `px`;
+			document.body.style.paddingRight = padding + `px`;
+			document.querySelector(`.header`).style.paddingRight = padding + `px`;
+		}
+		function enableScroll() {
+			let pagePosition = parseInt(
+				document.querySelector(`.lock`).dataset.position,
+				10
+			);
+			document.querySelector(`.lock`).style.top = `auto`;
+			document.body.classList.remove(`lock`);
+			window.scroll({ top: pagePosition, left: 0 });
+			document.body.removeAttribute(`dataset`);
+			document.body.removeAttribute(`style`);
+			document.querySelector(`.header`).removeAttribute(`style`);
+		}
+		function popupAnimate() {
+			$(`.popup`).removeClass(`visually-hidden`);
+			$(`.popup-overlay`).removeClass(`visually-hidden`);
+			$(`.popup`).animate({ opacity: 1 }, 200, `linear`);
+			$(`.popup-overlay`).animate({ opacity: 1 }, 200, `linear`);
+		}
+		$(`.all-filters`).on(`click`, function (e) {
+			disableScroll();
+			popupAnimate();
+		});
+		$(`.popup-overlay`).on(`click`, function (e) {
+			$(`.popup`).animate({ opacity: 0 }, 200, `linear`);
+			$(`.popup-overlay`).animate({ opacity: 0 }, 200, `linear`);
+			enableScroll();
+			window.setTimeout(() => {
+				$(`.popup`).addClass(`visually-hidden`);
+				$(`.popup-overlay`).addClass(`visually-hidden`);
+			}, 350);
+		});
+		$(`.popup__close`).on(`click`, function (e) {
+			$(`.popup`).animate({ opacity: 0 }, 200, `linear`);
+			$(`.popup-overlay`).animate({ opacity: 0 }, 200, `linear`);
+			enableScroll();
+			window.setTimeout(() => {
+				$(`.popup`).addClass(`visually-hidden`);
+				$(`.popup-overlay`).addClass(`visually-hidden`);
+			}, 350);
+		});
 
+		$(".country-select").each(function () {
+			var $this = $(this),
+				numberOfOptions = $(this).children("option").length;
+			if (this.classList.contains("tostyle")) {
+				let dropClass = "";
+				$this.addClass("select-hidden");
+				$this.wrap('<div class="select"></div>');
+				$this.after('<div class="select-styled"></div>');
+
+				var $styledSelect = $this.next("div.select-styled");
+				$styledSelect.text($this.children("option").eq(0).text());
+
+				var $list = $("<ul />", {
+					class: "select-options",
+				}).insertAfter($styledSelect);
+
+				for (var i = 0; i < numberOfOptions; i++) {
+					$("<li />", {
+						text: $this.children("option").eq(i).text(),
+						rel: $this.children("option").eq(i).val(),
+					}).appendTo($list);
+				}
+
+				var $listItems = $list.children("li");
+
+				$styledSelect.click(function (e) {
+					e.stopPropagation();
+					if (e.target.classList.contains(".droplist")) {
+						return;
+					}
+					$("div.select-styled.active")
+						.not(this)
+						.each(function () {
+							$(this).removeClass("active").next("ul.select-options").hide();
+						});
+					$(this).toggleClass("active").next("ul.select-options").toggle();
+				});
+
+				$listItems.click(function (e) {
+					e.stopPropagation();
+					if ($(this).text() == "«»") {
+						$this.val("");
+						console.log($(this).parent().children().first().text());
+						$styledSelect
+							.text($(this).parent().children().first().text())
+							.removeClass("active");
+						$list.hide();
+						return;
+					} else {
+						$styledSelect.text($(this).text()).removeClass("active");
+						$this.val($(this).attr("rel"));
+						$list.hide();
+						//console.log($this.val());
+					}
+				});
+
+				$(document).click(function () {
+					$styledSelect.removeClass("active");
+					$list.hide();
+				});
+				[].forEach.call(
+					document.querySelectorAll(".whith-clear"),
+					(element) => {
+						element.oninput = (e) => {
+							if (e.target.value !== "") {
+								e.target.parentNode.querySelector(".clear-input").style =
+									"opacity: 1;";
+							} else {
+								e.target.parentNode.querySelector(".clear-input").style =
+									"opacity: 0;";
+							}
+						};
+					}
+				);
+				document
+					.querySelector(".whith-clear")
+					.addEventListener("input", (e) => {
+						e.target.value;
+						console.log(document.querySelector(".clear-input").style.opasity);
+						if (e.target.value !== "") {
+							document.querySelector(".clear-input").style = "opacity: 1;";
+						} else {
+							document.querySelector(".clear-input").style = "opacity: 0;";
+						}
+						console.log(document.querySelector(".clear-input").style.opasity);
+					});
+			}
+		});
+	})();
 	$(".minPrice").mask("000.000.000.000.000", { reverse: true });
 	$(".maxPrice").mask("000.000.000.000.000", { reverse: true });
+	$(".number-type").mask("00000000000", { reverse: true });
 });

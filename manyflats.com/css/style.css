@@ -8,10 +8,10 @@ html {
 }
 body {
 	position: relative;
-
 	height: auto !important;
 	height: 100%;
 	min-height: 100%;
+	box-sizing: border-box;
 }
 .container {
 	/* font-weight: 700; */
@@ -26,6 +26,16 @@ body {
 	background-position: left bottom;
 	background-size: cover;
 	background-size: auto 120%;
+}
+.visually-hidden {
+	clip: rect(1px 1px 1px 1px);
+	padding: 0 !important;
+	border: 0 !important;
+}
+.lock {
+	overflow: hidden;
+	position: fixed;
+	width: 100%;
 }
 ul {
 	padding: 0;
@@ -888,6 +898,7 @@ input:focus:-ms-input-placeholder {
 	width: 100%;
 	background-color: #fff;
 	z-index: 20;
+	box-sizing: border-box;
 }
 .header .container {
 	padding: 0 40px;
@@ -1150,6 +1161,7 @@ input:focus:-ms-input-placeholder {
 	display: flex;
 	align-items: center;
 	padding-right: 23px;
+	box-sizing: border-box;
 }
 .select-styled:after {
 	content: "";
@@ -1178,7 +1190,7 @@ input:focus:-ms-input-placeholder {
 	transition: 0.2s;
 }
 .select-options {
-	display: none;
+	/* display: none; */
 	position: absolute;
 	top: 100%;
 	right: 0;
@@ -1286,6 +1298,9 @@ input:focus:-ms-input-placeholder {
 	background-image: url(../images/gps_not_fixed-24px.svg);
 	background-size: contain;
 }
+.search__drop {
+	position: relative;
+}
 .search__drop a {
 	text-decoration: none;
 	display: flex;
@@ -1304,13 +1319,16 @@ input:focus:-ms-input-placeholder {
 	outline: none;
 	font-size: 16px;
 	padding: 10px 37px 10px 10px;
+	max-width: 100%;
+	box-sizing: border-box;
 }
 .pricebox {
 	height: 0;
 	width: 0;
-	margin: 0px 14px 4px 15px;
+	margin: 0px 14px 4px 17px;
 	position: relative;
 }
+
 .pricebox::before {
 	content: "";
 	position: absolute;
@@ -1329,21 +1347,28 @@ input:focus:-ms-input-placeholder {
 	display: flex;
 	flex-direction: row;
 	align-items: center;
+	box-sizing: border-box;
+	margin-right: 15px;
 }
 .dropdown-search {
 	transform: translatex(-100%);
 	left: 100%;
 	border-radius: 5px;
 	z-index: 2;
+	display: flex;
+	/* flex-direction: row; */
 }
 .dropdown-label {
-	margin-right: 10px;
+	/* margin-right: 20px; */
 }
 .filter_input {
 	display: none;
 }
 .filter-drop-list {
 	align-items: flex-end;
+	left: 100%;
+	transform: translateX(-100%);
+	display: block;
 }
 .filter-drop-list label {
 	width: 100%;
@@ -1362,4 +1387,201 @@ input:focus:-ms-input-placeholder {
 }
 .filter-drop-list a:hover {
 	background-color: #e0e2e7;
+}
+.popup__header {
+	font-size: 27px;
+	margin-bottom: 20px;
+	align-self: center;
+}
+
+.popup-overlay {
+	z-index: 29;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background-color: rgba(0, 0, 0, 0.07);
+}
+
+.popup__input {
+	font-size: 16px;
+	display: block;
+	margin-bottom: 20px;
+	padding: 13px;
+	background: #fff;
+	outline: none;
+	border: solid 1px #dad9d9;
+}
+
+.popup__button {
+	margin-top: 54px;
+	display: block;
+	padding: 13px 64px;
+	cursor: pointer;
+	color: #f53f4f;
+	border: 1px solid #f82370;
+	background-color: #fbfbfb;
+	-webkit-transition: color 0.3s;
+	transition: color 0.3s;
+}
+
+.popup__button:hover {
+	color: #fbfbfb;
+	border: solid 1px #ff4e2e;
+	background-color: #ff4e2e;
+}
+
+.popup {
+	width: 924px;
+	/* height: 85vh; */
+	margin-top: 10px;
+	/* height: auto; */
+	top: 0;
+	left: 50vw;
+	max-height: 97vh;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, 0px);
+	/* max-width: 500px; */
+	/* width: auto; */
+	background-color: #fbfbfb;
+	z-index: 30;
+	position: fixed;
+	padding: 20px 20px 40px 20px;
+	background-color: #fbfbfb;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-shrink: 0;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	align-items: self-start;
+	overflow-y: auto;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.07);
+	box-sizing: border-box;
+}
+
+.popup__close {
+	width: 20px;
+	height: 20px;
+	position: sticky;
+	top: 0px;
+	/* left: 0; */
+	align-items: auto;
+	align-self: flex-end;
+	flex-shrink: 0;
+}
+
+.popup__close::before {
+	position: absolute;
+	/* left: 0; */
+	top: 50%;
+	content: "";
+	width: 100%;
+	height: 2px;
+	background-color: #6e6c6c;
+	-webkit-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+
+.popup__close::after {
+	position: absolute;
+	left: 0;
+	top: 50%;
+	content: "";
+	width: 100%;
+	height: 2px;
+	background-color: #918e8f;
+	-webkit-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+.price-drop {
+	left: 0;
+	transform: translatex(-50%);
+}
+.popup-row {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	min-height: 50px;
+	margin-bottom: 10px;
+	flex-shrink: 0;
+	justify-content: flex-start;
+}
+.popup-row > div:first-child {
+	text-align: right;
+	display: flex;
+	align-items: center;
+	flex-direction: row-reverse;
+	min-width: 214px;
+	padding-right: 20px;
+	flex-shrink: 0;
+}
+.popup-row > div:first-child span {
+	font-size: 20px;
+}
+.input-block {
+	display: flex;
+	flex-direction: row;
+	max-width: 90%;
+	/* align-items: center; */
+}
+.input-block label {
+	/* max-width: 50%; */
+	box-sizing: border-box;
+	align-items: center;
+	margin-left: 10px;
+}
+.values-block {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	max-width: 70%;
+	/* align-items: center; */
+	justify-content: center;
+}
+.check-box-block {
+	padding-top: 18px;
+	padding-bottom: 10px;
+	flex-direction: row;
+	display: flex;
+}
+.filers-input {
+	max-width: 80px;
+	border: 1px solid #e0e2e7;
+	padding: 10px;
+	outline: none;
+	/* margin: 5px; */
+	margin: 0 5px;
+	box-sizing: border-box;
+}
+.short-value div {
+	height: 100%;
+	width: 80px;
+}
+.country-select {
+	min-width: 100px;
+	border: 1px solid #e0e2e7;
+	outline: none;
+	margin: 0px 30px;
+}
+.country-select:hover {
+	background-color: rgba(24, 36, 23, 0.068);
+}
+.popup-disabled-select {
+	pointer-events: none;
+	border-color: #f1f1f1;
+}
+.popup-disabled-select::after {
+	border-top-color: #f1f1f1;
 }
