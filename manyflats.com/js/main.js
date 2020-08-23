@@ -103,7 +103,7 @@ Reference: http://jsfiddle.net/BB3JK/47/
 
 		$listItems.click(function (e) {
 			e.stopPropagation();
-			if ($(this).text() == "(пусто)") {
+			if ($(this).text() == "...") {
 				$this.val("");
 				console.log($(this).parent().children().first().text());
 				$styledSelect
@@ -319,93 +319,6 @@ Reference: http://jsfiddle.net/BB3JK/47/
 			}, 350);
 		});
 
-		$(".country-select").each(function () {
-			var $this = $(this),
-				numberOfOptions = $(this).children("option").length;
-			if (this.classList.contains("tostyle")) {
-				let dropClass = "";
-				$this.addClass("select-hidden");
-				$this.wrap('<div class="select"></div>');
-				$this.after('<div class="select-styled"></div>');
-
-				var $styledSelect = $this.next("div.select-styled");
-				$styledSelect.text($this.children("option").eq(0).text());
-
-				var $list = $("<ul />", {
-					class: "select-options",
-				}).insertAfter($styledSelect);
-
-				for (var i = 0; i < numberOfOptions; i++) {
-					$("<li />", {
-						text: $this.children("option").eq(i).text(),
-						rel: $this.children("option").eq(i).val(),
-					}).appendTo($list);
-				}
-
-				var $listItems = $list.children("li");
-
-				$styledSelect.click(function (e) {
-					e.stopPropagation();
-					if (e.target.classList.contains(".droplist")) {
-						return;
-					}
-					$("div.select-styled.active")
-						.not(this)
-						.each(function () {
-							$(this).removeClass("active").next("ul.select-options").hide();
-						});
-					$(this).toggleClass("active").next("ul.select-options").toggle();
-				});
-
-				$listItems.click(function (e) {
-					e.stopPropagation();
-					if ($(this).text() == "") {
-						$this.val("");
-						console.log($(this).parent().children().first().text());
-						$styledSelect
-							.text($(this).parent().children().first().text())
-							.removeClass("active");
-						$list.hide();
-						return;
-					} else {
-						$styledSelect.text($(this).text()).removeClass("active");
-						$this.val($(this).attr("rel"));
-						$list.hide();
-						//console.log($this.val());
-					}
-				});
-
-				$(document).click(function () {
-					$styledSelect.removeClass("active");
-					$list.hide();
-				});
-				[].forEach.call(
-					document.querySelectorAll(".whith-clear"),
-					(element) => {
-						element.oninput = (e) => {
-							if (e.target.value !== "") {
-								e.target.parentNode.querySelector(".clear-input").style =
-									"opacity: 1;";
-							} else {
-								e.target.parentNode.querySelector(".clear-input").style =
-									"opacity: 0;";
-							}
-						};
-					}
-				);
-				document
-					.querySelector(".whith-clear")
-					.addEventListener("input", (e) => {
-						e.target.value;
-						if (e.target.value !== "") {
-							document.querySelector(".clear-input").style = "opacity: 1;";
-						} else {
-							document.querySelector(".clear-input").style = "opacity: 0;";
-						}
-						console.log(document.querySelector(".clear-input").style.opasity);
-					});
-			}
-		});
 		document.onmouseup = (e) => {
 			e.stopPropagation();
 			if (!e.target.classList.contains("droped")) {
