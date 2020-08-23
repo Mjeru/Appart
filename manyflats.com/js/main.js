@@ -325,6 +325,42 @@ Reference: http://jsfiddle.net/BB3JK/47/
 			}
 		};
 	})();
+	console.log(document.querySelector(".country-select").parentNode.children);
+	[].forEach.call(
+		document.querySelector(".country-select").parentNode.children,
+		(e) => {
+			if (e.classList.contains("select-styled")) {
+				console.log(e);
+				e.onclick = (e) => {
+					console.log("обработчик поставлен");
+					$.ajax({
+						url: "https://manyflats.com/ru/geo?type=country",
+						context: document.body,
+						success: function (html) {
+							console.log(html);
+							$(this).addClass("done");
+						},
+					}).done(function () {
+						$(this).addClass("done");
+					});
+				};
+			}
+		}
+	);
+	document.querySelector(".country-select").parentNode.onclick = (e) => {
+		console.log("обработчик поставлен");
+		$.ajax({
+			url: "https://manyflats.com/ru/geo?type=country",
+			context: document.body,
+			success: function (html) {
+				console.log(html);
+				$(this).addClass("done");
+			},
+		}).done(function () {
+			$(this).addClass("done");
+		});
+	};
+
 	$(".minPrice").mask("000.000.000.000.000", { reverse: true });
 	$(".maxPrice").mask("000.000.000.000.000", { reverse: true });
 	$(".number-type").mask("00000000000", { reverse: true });
