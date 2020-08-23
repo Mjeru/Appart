@@ -1016,7 +1016,7 @@ input:focus:-ms-input-placeholder {
 	text-align: left;
 	background-color: #fff;
 	padding: 10px 0px;
-	z-index: 25;
+	/* z-index: 25; */
 	box-shadow: 0px 0px 30px 0px rgba(15, 27, 56, 0.1);
 }
 .sub__menu li {

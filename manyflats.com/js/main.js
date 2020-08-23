@@ -1,4 +1,6 @@
 $(document).ready(() => {
+	let openedlist;
+	let openedlistLink;
 	console.log(1);
 	// document.querySelector(".nav__item").onmouseenter = (e) => {
 	// 	let target = e.target;
@@ -216,9 +218,16 @@ Reference: http://jsfiddle.net/BB3JK/47/
 	[].forEach.call(search__dropA, (element) => {
 		console.log("start");
 		element.onclick = (e) => {
-			console.log(!e.target.classList.contains("droped") + "asd");
+			e.stopPropagation;
+			e.target.classList.toggle("droped-link");
 			if (!e.target.classList.contains("droped") == true) {
 				if (e.target.classList.contains("search__drop")) {
+					if (
+						document.querySelectorAll(".droped").length > 0 &&
+						!e.target.classList.contains("droped")
+					) {
+						document.querySelector(".droped").click();
+					}
 					e.target.classList.add("parent-hover");
 				}
 				[].forEach.call(e.target.parentNode.children, (element) => {
@@ -388,7 +397,6 @@ Reference: http://jsfiddle.net/BB3JK/47/
 					.querySelector(".whith-clear")
 					.addEventListener("input", (e) => {
 						e.target.value;
-						console.log(document.querySelector(".clear-input").style.opasity);
 						if (e.target.value !== "") {
 							document.querySelector(".clear-input").style = "opacity: 1;";
 						} else {
@@ -398,6 +406,11 @@ Reference: http://jsfiddle.net/BB3JK/47/
 					});
 			}
 		});
+		document.onmouseup = (e) => {
+			e.stopPropagation();
+			if (!e.target.classList.contains("droped")) {
+			}
+		};
 	})();
 	$(".minPrice").mask("000.000.000.000.000", { reverse: true });
 	$(".maxPrice").mask("000.000.000.000.000", { reverse: true });
