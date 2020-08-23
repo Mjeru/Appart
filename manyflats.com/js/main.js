@@ -359,7 +359,7 @@ Reference: http://jsfiddle.net/BB3JK/47/
 
 				$listItems.click(function (e) {
 					e.stopPropagation();
-					if ($(this).text() == "«»") {
+					if ($(this).text() == "") {
 						$this.val("");
 						console.log($(this).parent().children().first().text());
 						$styledSelect
