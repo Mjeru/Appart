@@ -99,8 +99,9 @@
 			type="text/css"
 		/>
 		<!-- <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css" /> -->
-		<link rel="stylesheet" type="text/css" href="../css/style.css" />
 		<link rel="stylesheet" type="text/css" href="../css/slider.css" />
+		<link rel="stylesheet" type="text/css" href="../css/flags-sprite.css" />
+		<link rel="stylesheet" type="text/css" href="../css/style.css" />
 
 		<link
 			rel="alternate"
@@ -289,23 +290,77 @@
 			</div>
 		</header>
 
-		<ul class="lang-block lclosed">
-			<li>
-				<a href="https://manyflats.com/en/search" rel="nofollow"
-					><span class="flag en"></span><span>en</span></a
-				>
-			</li>
-			<li>
-				<a href="https://manyflats.com/lv/search" rel="nofollow"
-					><span class="flag lv"></span><span>lv</span></a
-				>
-			</li>
-			<li class="act">
+			<div class="act lang-block lclosed">
 				<a href="https://manyflats.com/ru/search" rel="nofollow"
-					><span class="flag ru"></span><span>ru</span></a
-				>
-			</li>
-		</ul>
+					><span>ft²</span><span>$</span><div class="flag-icon ru"></div><span>ru</span></a
+                >
+                <select class="tostyle">
+                    <option value="EUR">EUR</option>
+                    <option value="USD">USD</option>
+                </select>
+                <select class="tostyle">
+                    <option value="ft²">ft²</option>
+                    <option value="m²">m²</option>
+                </select>
+               <ul>
+                   <li>
+                        <label class="lang-container">
+                        <input type="radio" name="lang" class="lang-radio">
+                        <div class="lang-label">
+                            <div class="flag-icon ru"></div><span class="text">ru</span>
+                        </div>
+                        </label>
+                    </li>
+                   <li>
+                        <label class="lang-container">
+                        <input type="radio" name="lang" class="lang-radio">
+                        <div class="lang-label">
+                            <div class="flag-icon ru"></div><span class="text">ru</span>
+                        </div>
+                        </label>
+                    </li>
+                   <li>
+                        <label class="lang-container">
+                        <input type="radio" name="lang" class="lang-radio">
+                        <div class="lang-label">
+                            <div class="flag-icon ru"></div><span class="text">ru</span>
+                        </div>
+                        </label>
+                    </li>
+                   <li>
+                        <label class="lang-container">
+                        <input type="radio" name="lang" class="lang-radio">
+                        <div class="lang-label">
+                            <div class="flag-icon ru"></div><span class="text">ru</span>
+                        </div>
+                        </label>
+                    </li>
+                   <li>
+                        <label class="lang-container">
+                        <input type="radio" name="lang" class="lang-radio">
+                        <div class="lang-label">
+                            <div class="flag-icon ru"></div><span class="text">ru</span>
+                        </div>
+                        </label>
+                    </li>
+                   <li>
+                        <label class="lang-container">
+                        <input type="radio" name="lang" class="lang-radio">
+                        <div class="lang-label">
+                            <div class="flag-icon ru"></div><span class="text">ru</span>
+                        </div>
+                        </label>
+                    </li>
+                   <li>
+                        <label class="lang-container">
+                        <input type="radio" name="lang" class="lang-radio">
+                        <div class="lang-label">
+                            <div class="flag-icon ru"></div><span class="text">ru</span>
+                        </div>
+                        </label>
+                    </li>
+               </ul>
+			</div>
 		<div class="container">
 		    <div class="animated start-page">
                 <form
@@ -4399,8 +4454,8 @@
          <div class="popup-row">
              <div><span>Сделки</span></div>
             <select id="year" name="testselect" class="tostyle">
-                <option value="hide" disabled></option>
-                <option value="clear"></option>
+                <option value="hide" disabled>...</option>
+                <option value="clear">...</option>
                 <option value="2011">Купить</option>
                 <option value="2012">Снять</option>
                 <option value="2013">Посуточно</option>
@@ -4411,8 +4466,8 @@
          <div class="popup-row">
             <div><span>Объекты</span></div>
             <select id="year" name="testselect" class="tostyle">
-                <option value="hide" disabled></option>
-                <option value="clear"></option>
+                <option value="hide" disabled>...</option>
+                <option value="clear">...</option>
                 <option value="2011">Квартиру</option>
                 <option value="2012">Дом</option>
                 <option value="2013">Комнату</option>
@@ -4422,8 +4477,8 @@
          <div class="popup-row">
             <div><span>Комнат</span></div>
             <select id="year" name="testselect" class="tostyle">
-                <option value="hide" disabled></option>
-                <option value="clear"></option>
+                <option value="hide" disabled>...</option>
+                <option value="clear">...</option>
                 <option value="2011">Студии</option>
                 <option value="2012">1</option>
                 <option value="2013">2</option>
@@ -4432,7 +4487,7 @@
             </select>
         </div> 
          <div class="popup-row">
-            <div><span>Этаж</span></div>
+            <div><span class="totop">Этаж</span></div>
             <div class="values-block">
                 <div class="check-box-block">
                     <label class="pricebox-label">
@@ -4707,40 +4762,34 @@
         <div class="popup-row">
             <div><span>Страна</span></div>
             <div class="input-block">
-                <select class="country-select">
-                    <option></option>
-                </select>
+                <select class="country-select"></select>
             </div>
         </div> 
         <div class="popup-row">
             <div><span>Регион</span></div>
             <div class="input-block">
-                <select class="country-select popup-disabled-select">
-                    <option></option>
+                <select class="region-select country-select popup-disabled-select">
                 </select>
             </div>
         </div> 
         <div class="popup-row">
             <div><span>Город</span></div>
             <div class="input-block">
-                <select class="country-select popup-disabled-select">
-                    <option></option>
+                <select class="sity-select country-select popup-disabled-select">
                 </select>
             </div>
         </div> 
         <div class="popup-row">
             <div><span>Район</span></div>
             <div class="input-block">
-                <select class="country-select popup-disabled-select">
-                    <option></option>
+                <select class="district-select country-select popup-disabled-select">
                 </select>
             </div>
         </div> 
         <div class="popup-row">
             <div><span>Улица</span></div>
             <div class="input-block">
-                <select class="country-select popup-disabled-select">
-                    <option></option>
+                <select class="street-select country-select popup-disabled-select">
                 </select>
             </div>
         </div> 
@@ -4755,10 +4804,404 @@
                <option value="2014">25км</option>
            </select>
         </div>   
+        <div class="popup-row">
+            <div><span class="totop">В месте проживания</span></div>
+            <div class="values-block">
+                    <div class="input-block">
+                        <span class="tocenter">
+                            Расстояние
+                        </span>
+                            <select id="year" name="testselect" class="tostyle">
+                                <option value="123">Нет</option>
+                                <option value="2011">0.5км</option>
+                                <option value="2012">1км</option>
+                                <option value="2013">5км</option>
+                                <option value="2014">10км</option>
+                                <option value="2014">25км</option>
+                            </select>
 
+                            
+                    </div>
+        
+                    <div class="check-box-block with-wrap">
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="full">
+                            Автобус
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Метро
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Железная дорога
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Парк
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Водоём
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Больница, врач
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Институт, техникум
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Школа
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Детский сад
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Cуперма́ркет, гипермаркет
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Кафе, ресторан
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Игровая площадка
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Школа
+                        </label>
+                    </div>
+                
+            </div>
+        </div>  
+        <div class="popup-row">
+            <div><span class="totop">Серия здания</span></div>
+            <div class="values-block">
+                                          
+                    <div class="check-box-block with-wrap">
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="full">
+                            Новостройка
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Хрущёвка
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Сталинка
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Спецпроект
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Частный дом
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            103-я серия
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            104-я серия
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            119-я серия
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            467-я серия
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            602-я серия
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Довоенный дом
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Литовский проект
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Чешский проект
+                        </label>
+                    </div>
+                
+            </div>
+        </div> 
+        <div class="popup-row">
+            <div><span class="totop">Материал здания</span></div>
+            <div class="values-block">
+                                          
+                    <div class="check-box-block with-wrap">
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="full">
+                            Монолит
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Кирпичный
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Панельный
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Кирпично-панельный
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Каменный
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Деревянный
+                        </label>
+                    </div>
+                
+            </div>
+        </div> 
+        <div class="popup-row">
+            <div><span class="totop">Удобства</span></div>
+            <div class="values-block">
+                                          
+                    <div class="check-box-block with-wrap">
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="full">
+                            Все удобства
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Частичные удобства
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Без удобств
+                        </label>
+                    </div>
+                
+            </div>
+        </div> 
+        <div class="popup-row">
+            <div><span class="totop">Отопление</span></div>
+            <div class="values-block">
+                                          
+                    <div class="check-box-block with-wrap">
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="full">
+                            Центральное
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Газовое
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Печное
+                        </label>
+                    </div>
+                
+            </div>
+        </div> 
+        <div class="popup-row">
+            <div><span class="totop">Состояние объекта</span></div>
+            <div class="values-block">
+                                          
+                    <div class="check-box-block with-wrap">
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="full">
+                            Отличное
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Хорошее
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Плохое
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Идет строительство
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Проект под ключ
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Новое здание
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Под снос
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            До реконструкции
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            После реконструкции
+                        </label>
+                    </div>
+                
+            </div>
+        </div> 
+        <div class="popup-row">
+        <div><span>Год постройки</span></div>
+            <div class="values-block">
+                <div class="input-block">
+                    <label class="search-label dropdown-label">
+                        от
+                        <input
+                            name="minPrice"
+                            class="number-type filers-input"
+                            type="text"
+                            pattern="^[0-9\.]*$"
+                            placeholder=""
+                            value=""
+                        ></input>
+                        
+                        
+                    </label>
+        
+                    <label class="search-label">
+                        до
+                        <input
+                            name="maxPrice"
+                            class="number-type filers-input"
+                            type="text"
+                            pattern="^[0-9\.]*$"
+                            placeholder=""
+                            value=""
+                        ></input>
+                    </label>
+                </div>
+            </div>
+        </div>
+        <div class="popup-row">
+            <div><span class="totop">Форма собственности</span></div>
+            <div class="values-block">
+                                          
+                    <div class="check-box-block with-wrap">
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="full">
+                            Личная
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Кооперативная
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Государственная/муниципальная
+                        </label>
+                    </div>
+            </div>
+        </div>
+        <div class="popup-row">
+            <div><span class="totop">Что-то ещё</span></div>
+            <div class="values-block">
+                                          
+                    <div class="check-box-block with-wrap">
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="full">
+                            Балкон
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Терраса
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Лоджия
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Подвал
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Парковка
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Гараж
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Лифт
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Мебелирована
+                        </label>
+                    </div>
+                
+            </div>
+        </div> 
+        <div class="popup-row">
+            <div><span class="totop">Автор объявления</span></div>
+            <div class="values-block">
+                                          
+                    <div class="check-box-block with-wrap">
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="full">
+                            Собственник
+                        </label>
+                        <label class="pricebox-label">
+                            <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                            Посредник
+                        </label>
+                    </div>
+                
+            </div>
+        </div> 
+        <div class="popup-row">
+            <div><span>Возраст объявления</span></div>
+            <div class="values-block">
+                <div class="input-block">
+                    <select id="year" name="testselect" class="tostyle">
+                        <option value="hide">без ограничений</option>
+                        <option value="2011">один день</option>
+                        <option value="2012">три дня</option>
+                        <option value="2013">неделя</option>
+                    </select>
 
-
-
+                </div>
+            
+        </div>
+        </div>   
+        <div class="popup-row">
+            <div><span>Название фильтра</span></div>
+            <div class="values-block">
+            <input id="year" name="testselect" type="text" class="filers-input popup-text-filt">
+        </div>
+        </div>   
+        <div class="popup-row">
+            <div>
+            </div>
+                    <button class="search-button animated accept-button" type="submit">
+                    <span>Принять</span>
+                </button>
+            <button class="search-button animated cancel-button" type="button">
+                <span>Отмена</span>
+            </button>
+        </div>   
 
 
 
@@ -4777,7 +5220,12 @@
 		<div class="footer">
 			<a href="https://manyflats.com/ru/terms">Условия</a>
 			<a href="https://manyflats.com/ru/policy">Конфиденциальность</a>
-		</div>
+        </div>
+        
+        <div class="url-geo">https://cors-anywhere.herokuapp.com/manyflats.com/ru/geo</div>
+
+
+
 		<script src="../js/jquery.min.js"></script>
 		<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> -->
 		<script src="../js/jquery.autocomplete.min.js@id=8510d0a489061ba21a93"></script>

@@ -1,49 +1,19 @@
 $(document).ready(() => {
-	let openedlist;
-	let openedlistLink;
-	console.log(1);
-	// document.querySelector(".nav__item").onmouseenter = (e) => {
-	// 	let target = e.target;
-	// 	target.onmouseenter = (e) => {
-	// 		if (target.classList.contains("sub__menu-parent")) {
-	// 			[].forEach.call(target.children, (element) => {
-	// 				console.log(element.tagName == "UL");
-	// 				if (element.tagName == "UL") {
-	// 					element.classList.remove("hidden");
-	// 					console.log("compl");
-	// 					element.classList.add("show");
-	// 				}
-	// 			});
-	// 		}
-	// 		target.onmouseleave = (e) => {
-	// 			console.log(e.target);
-	// 			[].forEach.call(e.target.children, (element) => {
-	// 				if (element.tagName == "UL") {
-	// 					element.classList.add("hidden");
-	// 					element.classList.remove("show");
-	// 				}
-	// 			});
-	// 		};
-	// 	};
-	// };
 	let subMenuParent = document.querySelectorAll(".sub__menu-parent");
+	let urlGeo = document.querySelector(".url-geo").textContent;
 	[].forEach.call(subMenuParent, (element) => {
-		console.log("start");
 		element.onmouseenter = (e) => {
 			e.target.classList.add("parent-hover");
 			[].forEach.call(e.target.children, (element) => {
-				console.log(element.tagName == "UL");
 				if (element.tagName == "UL") {
 					element.classList.add("show");
 					element.classList.remove("hidden");
-					console.log("compl");
 				}
 			});
 		};
 
 		element.onmouseleave = (e) => {
 			e.target.classList.remove("parent-hover");
-			console.log(e.target);
 			[].forEach.call(e.target.children, (element) => {
 				if (element.tagName == "UL") {
 					element.classList.remove("show");
@@ -53,18 +23,12 @@ $(document).ready(() => {
 		};
 	});
 
-	/*в
-Reference: http://jsfiddle.net/BB3JK/47/
-*/
-
-	$("select").each(function (index) {
+	$(".tostyle").each(function (index) {
 		var $this = $(this),
 			numberOfOptions = $(this).children("option").length;
 		let dropClass = "";
 		$this.addClass("select-hidden");
 		$this.wrap('<div class="select"></div>');
-		console.log($(this)[index]);
-		console.log(index);
 		if ($(this).hasClass("popup-disabled-select")) {
 			$this.after('<div class="select-styled popup-disabled-select"></div>');
 		} else {
@@ -105,7 +69,6 @@ Reference: http://jsfiddle.net/BB3JK/47/
 			e.stopPropagation();
 			if ($(this).text() == "...") {
 				$this.val("");
-				console.log($(this).parent().children().first().text());
 				$styledSelect
 					.text($(this).parent().children().first().text())
 					.removeClass("active");
@@ -115,10 +78,8 @@ Reference: http://jsfiddle.net/BB3JK/47/
 				$styledSelect.text($(this).text()).removeClass("active");
 				$this.val($(this).attr("rel"));
 				$list.hide();
-				//console.log($this.val());
 			}
 		});
-
 		$(document).click(function () {
 			$styledSelect.removeClass("active");
 			$list.hide();
@@ -136,87 +97,35 @@ Reference: http://jsfiddle.net/BB3JK/47/
 		});
 		document.querySelector(".whith-clear").addEventListener("input", (e) => {
 			e.target.value;
-			console.log(document.querySelector(".clear-input").style.opasity);
 			if (e.target.value !== "") {
 				document.querySelector(".clear-input").style = "opacity: 1;";
 			} else {
 				document.querySelector(".clear-input").style = "opacity: 0;";
 			}
-			console.log(document.querySelector(".clear-input").style.opasity);
 		});
 	});
-	// document.querySelector(".clear-input").onclick = (e) => {
-	// 	e.target.style = "opacity: 0;";
-	// 	document.querySelector(".search-field").value = "";
-	// };
+
 	document.querySelector(".search-label").onmouseenter = () => {
-		console.log("add");
 		document.querySelector(".searcharea").classList.remove("hidden");
 		document.querySelector(".searcharea").classList.add("show");
 	};
 	document.querySelector(".search-label").onmouseleave = () => {
-		console.log("add");
 		document.querySelector(".searcharea").classList.add("hidden");
 		document.querySelector(".searcharea").classList.remove("show");
 	};
 	[].forEach.call(document.querySelectorAll(".clear-input"), (element) => {
 		element.onclick = (e) => {
 			[].forEach.call(e.target.parentNode.children, (element) => {
-				console.log(element);
-				console.log(element.tagName);
 				if (element.tagName == "INPUT") {
 					element.value = "";
 				}
 				e.target.style = "opacity: 0;";
 			});
-			// document.querySelectorAll(".clear-input").onclick = (e) => {
-			// 	[].forEach.call(e.target.parentNode.children, (element) => {
-			// 		if (element.tagName == "input") {
-			// 			console.log;
-			// 			element.value = "";
-			// 		}
-			// 	});
 		};
 	});
 
-	// let search__drop = document.querySelectorAll(".search__drop");
-	// [].forEach.call(search__drop, (element) => {
-	// 	console.log("start");
-	// 	element.onclick = (e) => {
-	// 		console.log(!e.target.classList.contains("droped") + "asd");
-	// 		if (!e.target.parentNode.classList.contains("droped") == true) {
-	// 			if (e.target.classList.contains("search__drop")) {
-	// 				e.target.classList.add("parent-hover");
-	// 			}
-	// 			[].forEach.call(e.target.parentNode.children, (element) => {
-	// 				console.log(element.tagName == "UL");
-	// 				if (element.tagName == "UL") {
-	// 					element.classList.add("show");
-	// 					element.classList.remove("hidden");
-	// 				}
-	// 			});
-	// 		} else {
-	// 			if (e.target.parentNode.classList.contains("droped") == true) {
-	// 				if (e.target.classList.contains("search__drop")) {
-	// 					e.target.classList.remove("parent-hover");
-	// 				}
-	// 				[].forEach.call(e.target.parentNode.children, (element) => {
-	// 					console.log(element.tagName == "UL");
-	// 					if (element.tagName == "UL") {
-	// 						element.classList.remove("show");
-	// 						element.classList.add("hidden");
-	// 					}
-	// 				});
-
-	// 				return;
-	// 			}
-	// 		}
-	// 	};
-	// });
-
 	let search__dropA = document.querySelectorAll(".search__drop-link");
 	[].forEach.call(search__dropA, (element) => {
-		console.log("start");
 		element.onclick = (e) => {
 			e.stopPropagation;
 			e.target.classList.toggle("droped-link");
@@ -231,7 +140,6 @@ Reference: http://jsfiddle.net/BB3JK/47/
 					e.target.classList.add("parent-hover");
 				}
 				[].forEach.call(e.target.parentNode.children, (element) => {
-					console.log(element.tagName == "UL");
 					if (element.tagName == "UL") {
 						element.classList.add("show");
 						element.classList.remove("hidden");
@@ -244,7 +152,6 @@ Reference: http://jsfiddle.net/BB3JK/47/
 						e.target.classList.remove("parent-hover");
 					}
 					[].forEach.call(e.target.parentNode.children, (element) => {
-						console.log(element.tagName == "UL");
 						if (element.tagName == "UL") {
 							element.classList.remove("show");
 							element.classList.add("hidden");
@@ -256,11 +163,11 @@ Reference: http://jsfiddle.net/BB3JK/47/
 			}
 		};
 	});
+
 	[].forEach.call(
 		document.querySelectorAll(".filter-label-link"),
 		(element) => {
 			element.onclick = (e) => {
-				console.log(e.target.parentNode.tagName == "LABEL");
 				if (e.target.parentNode.tagName == "LABEL") {
 					e.target.parentNode.click();
 					document.forms.searchForm.submit();
@@ -297,6 +204,21 @@ Reference: http://jsfiddle.net/BB3JK/47/
 			$(`.popup-overlay`).animate({ opacity: 1 }, 200, `linear`);
 		}
 		$(`.all-filters`).on(`click`, function (e) {
+			if (country.childNodes.length == 0) {
+				country.appendChild(blunk);
+				$.ajax({
+					url: `${urlGeo}?type=country`,
+					context: document.body,
+					success: function (html) {
+						html.list.forEach((element) => {
+							let newLi = document.createElement("option");
+							newLi.value = `${element}`;
+							newLi.innerHTML = `${element}`;
+							country.appendChild(newLi);
+						});
+					},
+				});
+			}
 			disableScroll();
 			popupAnimate();
 		});
@@ -318,6 +240,15 @@ Reference: http://jsfiddle.net/BB3JK/47/
 				$(`.popup-overlay`).addClass(`visually-hidden`);
 			}, 350);
 		});
+		$(`.cancel-button`).on(`click`, function (e) {
+			$(`.popup`).animate({ opacity: 0 }, 200, `linear`);
+			$(`.popup-overlay`).animate({ opacity: 0 }, 200, `linear`);
+			enableScroll();
+			window.setTimeout(() => {
+				$(`.popup`).addClass(`visually-hidden`);
+				$(`.popup-overlay`).addClass(`visually-hidden`);
+			}, 350);
+		});
 
 		document.onmouseup = (e) => {
 			e.stopPropagation();
@@ -325,39 +256,169 @@ Reference: http://jsfiddle.net/BB3JK/47/
 			}
 		};
 	})();
-	console.log(document.querySelector(".country-select").parentNode.children);
-	[].forEach.call(
-		document.querySelector(".country-select").parentNode.children,
-		(e) => {
-			if (e.classList.contains("select-styled")) {
-				console.log(e);
-				e.onclick = (e) => {
-					console.log("обработчик поставлен");
-					$.ajax({
-						url: "https://manyflats.com/ru/geo?type=country",
-						context: document.body,
-						success: function (html) {
-							console.log(html);
-							$(this).addClass("done");
-						},
-					}).done(function () {
-						$(this).addClass("done");
-					});
-				};
-			}
+
+	let country = document.querySelector(".country-select"),
+		region = document.querySelector(".region-select"),
+		city = document.querySelector(".sity-select"),
+		district = document.querySelector(".district-select"),
+		street = document.querySelector(".street-select"),
+		blunk = document.createElement("option");
+	blunk.value = "";
+	country.onchange = (e) => {
+		let value = e.target.value;
+		while (region.firstChild) {
+			region.removeChild(region.firstChild);
 		}
-	);
-	document.querySelector(".country-select").parentNode.onclick = (e) => {
-		console.log("обработчик поставлен");
+		while (city.firstChild) {
+			city.removeChild(city.firstChild);
+		}
+		while (street.firstChild) {
+			street.removeChild(street.firstChild);
+		}
+		while (district.firstChild) {
+			district.removeChild(district.firstChild);
+		}
+		region.appendChild(blunk.cloneNode());
+		city.appendChild(blunk.cloneNode());
+		if (!street.classList.contains("popup-disabled-select")) {
+			street.classList.add("popup-disabled-select");
+		}
+		if (!district.classList.contains("popup-disabled-select")) {
+			district.classList.add("popup-disabled-select");
+		}
+		if (value == "") {
+			region.classList.add("popup-disabled-select");
+			city.classList.add("popup-disabled-select");
+			district.classList.add("popup-disabled-select");
+			street.classList.add("popup-disabled-select");
+			return;
+		}
 		$.ajax({
-			url: "https://manyflats.com/ru/geo?type=country",
+			url: `${urlGeo}?type=region&country=${value}`,
 			context: document.body,
 			success: function (html) {
-				console.log(html);
-				$(this).addClass("done");
+				html.list.forEach((element) => {
+					let newLi = document.createElement("option");
+					newLi.value = `${element}`;
+					newLi.innerHTML = `${element}`;
+
+					region.appendChild(newLi);
+				});
+				region.classList.remove("popup-disabled-select");
 			},
-		}).done(function () {
-			$(this).addClass("done");
+		});
+		$.ajax({
+			url: `${urlGeo}?type=city&country=${country.value}&region=""`,
+			context: document.body,
+			success: function (html) {
+				html.list.forEach((element) => {
+					let newLi = document.createElement("option");
+					newLi.value = `${element}`;
+					newLi.innerHTML = `${element}`;
+
+					city.appendChild(newLi);
+				});
+				city.classList.remove("popup-disabled-select");
+			},
+		});
+	};
+
+	region.onchange = (e) => {
+		let value = e.target.value;
+		while (city.firstChild) {
+			city.removeChild(city.firstChild);
+		}
+		while (district.firstChild) {
+			district.removeChild(district.firstChild);
+		}
+		while (street.firstChild) {
+			street.removeChild(street.firstChild);
+		}
+		if (!street.classList.contains("popup-disabled-select"))
+			street.classList.add("popup-disabled-select");
+		if (!district.classList.contains("popup-disabled-select"))
+			district.classList.add("popup-disabled-select");
+		city.appendChild(blunk.cloneNode());
+		console.log(`${urlGeo}?type=city&country=${country.value}&region=${value}`);
+		$.ajax({
+			url: `${urlGeo}?type=city&country=${country.value}&region=${value}`,
+			context: document.body,
+			success: function (html) {
+				html.list.forEach((element) => {
+					let newLi = document.createElement("option");
+					newLi.value = `${element}`;
+					newLi.innerHTML = `${element}`;
+
+					city.appendChild(newLi);
+				});
+				city.classList.remove("popup-disabled-select");
+			},
+		});
+	};
+
+	city.onchange = (e) => {
+		let value = e.target.value;
+		while (district.firstChild) {
+			district.removeChild(district.firstChild);
+		}
+		while (street.firstChild) {
+			street.removeChild(street.firstChild);
+		}
+		district.appendChild(blunk.cloneNode());
+		street.appendChild(blunk.cloneNode());
+		if (value == "") {
+			district.classList.add("popup-disabled-select");
+			street.classList.add("popup-disabled-select");
+			return;
+		}
+		$.ajax({
+			url: `${urlGeo}?type=district&country=${country.value}&region=${region.value}&city=${value}`,
+			context: document.body,
+			success: function (html) {
+				html.list.forEach((element) => {
+					let newLi = document.createElement("option");
+					newLi.value = `${element}`;
+					newLi.innerHTML = `${element}`;
+
+					district.appendChild(newLi);
+				});
+				district.classList.remove("popup-disabled-select");
+			},
+		});
+		$.ajax({
+			url: `${urlGeo}?type=street&country=${country.value}&region=${region.value}&city=${city.value}&district=${value}`,
+			context: document.body,
+			success: function (html) {
+				html.list.forEach((element) => {
+					let newLi = document.createElement("option");
+					newLi.value = `${element}`;
+					newLi.innerHTML = `${element}`;
+
+					street.appendChild(newLi);
+				});
+				street.classList.remove("popup-disabled-select");
+			},
+		});
+	};
+
+	district.onchange = (e) => {
+		let value = e.target.value;
+		while (street.firstChild) {
+			street.removeChild(street.firstChild);
+		}
+		street.appendChild(blunk.cloneNode());
+		$.ajax({
+			url: `${urlGeo}?type=street&country=${country.value}&region=${region.value}&city=${value}`,
+			context: document.body,
+			success: function (html) {
+				html.list.forEach((element) => {
+					let newLi = document.createElement("option");
+					newLi.value = `${element}`;
+					newLi.innerHTML = `${element}`;
+
+					street.appendChild(newLi);
+				});
+			},
 		});
 	};
 
