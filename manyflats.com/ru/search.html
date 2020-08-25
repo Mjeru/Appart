@@ -129,6 +129,28 @@
 	<body>
 		<header class="header">
 			<div class="container">
+                
+                <div class="mobile-container">
+                    <div class="mobile-logo">
+                        <div class="logo">
+                            <picture>
+                                <source srcset="../images/logo.webp" type="image/webp" />
+                                <a href="#">
+                                    <img class="logo__item" src="../images/logo.webp" alt="logo" />
+                                </a>
+                            </picture>
+                        </div>
+                        <div class="authorization">
+                            <div class="authirization__links">
+                                <a href="#">Войти</a>
+                                <a href="#">Регистрация</a>
+                            </div>
+                            <button type="button" class="search-button animated"><span>Добавить недвижимость</span></button>
+                        </div>
+                    </div>
+                </div>
+
+
 				<div class="logo">
 					<picture>
 						<source srcset="../images/logo.webp" type="image/webp" />
@@ -503,7 +525,6 @@
 										<li><a ref="#">Колонка3</a></li>
 										<li><a ref="#">Колонка3</a></li>
 										<li><a ref="#">Колонка3</a></li>
-										<li><a ref="#">Колонка3&nbsp;Колонка3</a></li>
 										<li><a ref="#">Колонка3</a></li>
 										<li><a ref="#">Колонка3</a></li>
 									</ul>
@@ -705,7 +726,7 @@
                 <form
                     id="search-form"
                     name="searchForm"
-    				class="search-form"
+    				class="search-form loaded"
     				action="https://manyflats.com/ru/search"
     				placeholderservice="https://manyflats.com/ru/query"
                 >
@@ -725,7 +746,7 @@
                     </label>
                 </label>
     				<select id="status" name="status" class="tostyle">
-    					<option value="hide">Все&nbsp;статусы</option>
+    					<option value="hide">Все статусы</option>
     					<option value="clear">...</option>
     					<option value="february">Купить</option>
     					<option value="march">Снять</option>
@@ -745,40 +766,45 @@
     				</select>
     				<div class="search__drop">
                         <a href="#" class="search__drop search__drop-link">Цены</a>
-                        <ul class="sub__menu multi-col hidden dropdown-search price-drop bu">
+                        <ul class="sub__menu multi-col hidden dropdown-search price-drop bu center">
                             <li>
-                                <label class="search-label dropdown-label">
-                                    <input
-                                        name="minPrice"
-                                        class="minPrice price-field whith-clear"
-                                        type="text"
-                                        pattern="^[0-9\.]*$"
-                                        placeholder="Цена от"
-                                        value=""
-                                    ></input>
-                                    <div class="clear-input"></div>
-                                    
-                                </label>
-    
-                                <label class="search-label">
-                                    <input
-                                        name="maxPrice"
-                                        class="maxPrice price-field whith-clear"
-                                        type="text"
-                                        pattern="^[0-9\.]*$"
-                                        placeholder="до"
-                                        value=""
-                                    ></input>
-                                    <div class="clear-input"></div>
-                                </label>
-                                <label class="pricebox-label">
-                                    <input type="radio" name="pricebox" class="pricebox" value="full">
-                                    За&nbsp;все
-                                </label>
-                                <label class="pricebox-label">
-                                    <input type="radio" name="pricebox" class="pricebox" value="squear">
-                                    За&nbsp;кв.м
-                                </label>
+                                <div class="price-interval">
+                                    <label class="search-label dropdown-label">
+                                        <input
+                                            name="minPrice"
+                                            class="minPrice price-field whith-clear"
+                                            type="text"
+                                            pattern="^[0-9\.]*$"
+                                            placeholder="Цена от"
+                                            value=""
+                                        ></input>
+                                        <div class="clear-input"></div>
+                                        
+                                    </label>
+                                    <span>-</span>
+                                    <label class="search-label">
+                                        <input
+                                            name="maxPrice"
+                                            class="maxPrice price-field whith-clear"
+                                            type="text"
+                                            pattern="^[0-9\.]*$"
+                                            placeholder="до"
+                                            value=""
+                                        ></input>
+                                        <div class="clear-input"></div>
+                                    </label>
+                                    <span>&#8381</span>
+                                </div>
+                                <div class="price-interval">
+                                    <label class="pricebox-label">
+                                        <input type="radio" name="pricebox" class="pricebox" value="full" checked>
+                                        За&nbsp;все
+                                    </label>
+                                    <label class="pricebox-label">
+                                        <input type="radio" name="pricebox" class="pricebox" value="squear">
+                                        За&nbsp;кв.м
+                                    </label>
+                                </div>
                             </li>
                         </ul>
                     </div>
@@ -802,7 +828,7 @@
                                     <input type="checkbox" name="pricebox" class="pricebox" value="squear">
                                     3
                                 </label>
-                                <label class="pricebox-label">
+                                <label class="pricebox-label with-slash">
                                     <input type="checkbox" name="pricebox" class="pricebox" value="squear">
                                     4+
                                 </label>
@@ -811,16 +837,16 @@
                     </div>
     				<div class="search__drop">
                         <a href="#" class="search__drop search__drop-link">Лучшее</a>
-                        <ul class="sub__menu hidden dropdown-search price-drop">
+                        <ul class="sub__menu hidden dropdown-search price-drop ">
                             <li>
                                 <label class="pricebox-label">
-                                    <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                                    <input type="checkbox" name="pricebox" class="pricebox bests" value="squear">
                                     С&nbsp;ценой&nbsp;ниже&nbsp;рынка&nbsp;
                                 </label>
                             </li>
                             <li>
                                 <label class="pricebox-label">
-                                    <input type="checkbox" name="pricebox" class="pricebox" value="squear">
+                                    <input type="checkbox" name="pricebox" class="pricebox bests" value="squear">
                                     С&nbsp;выгодной&nbsp;окупаемостью
                                 </label>
                             </li>
@@ -831,7 +857,7 @@
                         <ul class="sub__menu hidden filter-drop-list">
                             <li>
                                 <a href="#" class="filter-label all-filters">
-                                    Все&nbsp;фильтры
+                                    Все фильтры
                                 </a>
                             </li>
                             <li>

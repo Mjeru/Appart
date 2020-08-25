@@ -104,6 +104,7 @@ $(document).ready(() => {
 			}
 		});
 	});
+	document.querySelector(".search-form").classList.remove("loaded");
 
 	document.querySelector(".search-label").onmouseenter = () => {
 		document.querySelector(".searcharea").classList.remove("hidden");
