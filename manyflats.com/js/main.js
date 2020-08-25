@@ -421,6 +421,120 @@ $(document).ready(() => {
 			},
 		});
 	};
+	let langBlock = document.querySelector(".lang-block");
+	let langWidth = document.querySelector(".lang-options").offsetWidth;
+	let langHeigth = $(".lang-options").height();
+	console.log(langWidth);
+	console.log(langHeigth);
+	let options = document.querySelector(".lang-options");
+
+	document.querySelector(".langlink").onclick = (e) => {
+		if (options.offsetWidth > 0) {
+			$(".lang-options").animate(
+				{
+					width: "0px",
+				},
+				100,
+				function () {
+					$(".lang-options").animate(
+						{
+							height: "0px",
+						},
+						100
+					);
+				}
+			);
+		} else {
+			$(".lang-options").animate(
+				{
+					width: `${langHeigth}px`,
+				},
+				100,
+				function () {
+					$(".lang-options").animate(
+						{
+							height: `${langWidth}px`,
+						},
+						100
+					);
+				}
+			);
+		}
+	};
+	document.querySelector(".langcancel").onclick = (e) => {
+		if (options.offsetWidth > 0) {
+			$(".lang-options").animate(
+				{
+					width: "0px",
+				},
+				100,
+				function () {
+					$(".lang-options").animate(
+						{
+							height: "0px",
+						},
+						100
+					);
+				}
+			);
+		} else {
+			$(".lang-options").animate(
+				{
+					width: `${langHeigth}px`,
+				},
+				100,
+				function () {
+					$(".lang-options").animate(
+						{
+							height: `${langWidth}px`,
+						},
+						100
+					);
+				}
+			);
+		}
+	};
+	document.querySelector(".langlink").onclick();
+	window.setTimeout(() => {
+		langBlock.style.opacity = 1;
+	}, 300);
+
+	let sliders = document.querySelectorAll(".owl-stage"),
+		nextslidelinks = document.querySelectorAll(".owl-next"),
+		prevslidelinks = document.querySelectorAll(".owl-prev");
+
+	// [].forEach.call(sliders, (el) => {
+	// 	console.log(el.childNodes.length + "длинна");
+
+	// 	total = el.childNodes.length;
+	// 	try {
+	// 		el.parentNode.parentNode.parentNode.children[0].children[1].innerHTML = total;
+	// 	} catch {}
+	// });
+	// [].forEach.call(nextslidelinks, (el) => {
+	// 	el.onclick = (ev) => {
+	// 		if (!ev.target.parentNode.classList.contains("disabled")) {
+	// 			let curentElem =
+	// 				ev.target.parentNode.parentNode.parentNode.parentNode.children[0]
+	// 					.children[0];
+	// 			let curent = parseInt(curentElem.innerHTML);
+	// 			curent = curent + 1;
+	// 			curentElem.innerHTML = curent;
+	// 		}
+	// 	};
+	// });
+	// [].forEach.call(prevslidelinks, (el) => {
+	// 	el.onclick = (ev) => {
+	// 		if (!ev.target.parentNode.classList.contains("disabled")) {
+	// 			let curentElem =
+	// 				ev.target.parentNode.parentNode.parentNode.parentNode.children[0]
+	// 					.children[0];
+	// 			let curent = parseInt(curentElem.innerHTML);
+	// 			curent = curent - 1;
+	// 			curentElem.innerHTML = curent;
+	// 		}
+	// 	};
+	// });
 
 	$(".minPrice").mask("000.000.000.000.000", { reverse: true });
 	$(".maxPrice").mask("000.000.000.000.000", { reverse: true });
