@@ -48,10 +48,8 @@ ul {
 	font-family: Arial, Helvetica, sans-serif, Tahoma;
 	font-size: 18px;
 	font-weight: 300;
-
 	margin-right: auto;
-	margin-left: 200px;
-
+	margin-left: 243px;
 	color: #464646;
 }
 .container-ie8 {
@@ -424,7 +422,7 @@ a.property-name:visited {
 	color: grey;
 }
 .properties > div > div:first-child {
-	width: 73px;
+	width: 157px;
 }
 .properties > div > div:last-child {
 	width: 100px;
@@ -755,10 +753,8 @@ input:focus:-ms-input-placeholder {
 	font-family: Arial, Helvetica, sans-serif, Tahoma;
 	font-size: 18px;
 	font-weight: 300;
-
 	margin-right: auto;
-	margin-left: 200px;
-
+	margin-left: 241px;
 	color: #464646;
 }
 .filters-block .dropbtn,
@@ -1785,6 +1781,7 @@ input[type="radio"]:checked + .text {
 .lang-block .select-styled {
 	width: 88px;
 	min-height: 32px;
+	text-transform: none;
 }
 .lang-block .select-options li {
 	height: auto;
@@ -1832,12 +1829,21 @@ input[type="radio"]:checked + .text {
 	position: absolute;
 	top: 10px;
 	left: 10px;
-	color: rgb(95, 236, 131);
+	color: rgb(135 134 173);
 	z-index: 2;
+	font-size: 17px;
 }
 .owl-next {
 	right: 20px;
 }
 .owl-prev {
 	left: 20px;
+}
+.curent {
+	font-size: 20px;
+	color: rgb(0, 118, 197);
+}
+.total {
+	font-size: 16px;
+	color: rgb(127, 127, 128);
 }
