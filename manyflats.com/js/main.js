@@ -536,6 +536,24 @@ $(document).ready(() => {
 	// 		}
 	// 	};
 	// });
+	document.querySelector(".changeLang").onclick = (e) => {
+		e.preventDefault;
+		console.log("change");
+		let lang = $("input[name=lang]:checked").val();
+		let val = $(".lang-select1").val();
+		let metr = $(".lang-select2").val();
+		let url = `country=${lang}&area=${metr}&currency=${val}`;
+		let curentUrl = location.href;
+		if (curentUrl.match(/country\=[A-z]+\&area\=[A-z]+\&currency\=[A-z]+/)) {
+			curentUrl.replace(/country\=[A-z]+\&area\=[A-z]+\&currency\=[A-z]+/, url);
+			location.replace(curentUrl);
+			console.log("change");
+		} else {
+			curentUrl = curentUrl.replace("search.html", `search.html&${url}`);
+			console.log("go");
+			location.replace(curentUrl);
+		}
+	};
 
 	$(".minPrice").mask("000.000.000.000.000", { reverse: true });
 	$(".maxPrice").mask("000.000.000.000.000", { reverse: true });
