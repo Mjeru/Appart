@@ -2229,6 +2229,9 @@ input[type="radio"]:checked + .text {
 	.header > .container > .logo {
 		display: none;
 	}
+	.search-form::before {
+		border-radius: 0px;
+	}
 	.header > .container > .authorization {
 		padding: 10px 0;
 		justify-content: center;
