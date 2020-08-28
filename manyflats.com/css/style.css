@@ -2313,6 +2313,9 @@ input[type="radio"]:checked + .text {
 	.heightcorr::before {
 		transform: translate(15%, 50%);
 	}
+	.authorization .search-button {
+		margin-left: 5px;
+	}
 }
 .lang-block-close {
 	position: absolute;
