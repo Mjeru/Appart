@@ -924,7 +924,7 @@ input:focus:-ms-input-placeholder {
 	box-sizing: border-box;
 }
 .header > .container {
-	padding: 0 40px;
+	padding: 0 20px;
 	display: flex;
 	flex-direction: row;
 	width: 100%;
@@ -2317,7 +2317,7 @@ input[type="radio"]:checked + .text {
 		transform: translate(15%, 50%);
 	}
 	.authorization .search-button {
-		margin-left: 5px;
+		margin-left: 10px;
 	}
 }
 .lang-block-close {
@@ -2344,18 +2344,25 @@ input[type="radio"]:checked + .text {
 	display: block;
 }
 .nav-mobile {
-	position: relative;
+	position: absolute;
 	display: flex;
+	top: 135px;
 	flex-direction: column;
 	align-items: center;
 	width: 100%;
+	z-index: 19;
+	background-color: #fff;
+	border-bottom: 1px solid #cfd0ce;
 }
-.nav-mobile ul {
+.nav-mobile * {
+	box-sizing: border-box;
+}
+.nav-mobile > ul {
 	width: 100%;
 	list-style: none;
 }
 .nav-mobile li {
-	width: 100%;
+	/* width: 100%; */
 	text-align: center;
 	list-style: none;
 }
@@ -2366,6 +2373,7 @@ input[type="radio"]:checked + .text {
 	padding: 10px;
 	font-size: 22px;
 	position: relative;
+	background-color: #f5f6f7;
 }
 .nav-mobile div:after {
 	position: absolute;
@@ -2382,9 +2390,17 @@ input[type="radio"]:checked + .text {
 	display: inline-block;
 	transform: translateY(-50%);
 }
+.nav-mobile a {
+	text-decoration: none;
+	font-size: 20px;
+	color: #000;
+	margin: 5px auto;
+	width: 100%;
+	display: inline-block;
+}
 .nav-mobile li div:hover {
 	color: #fff;
-	background-color: rgb(14 27 56);
+	/* background-color: rgb(14 27 56); */
 }
 .burger-container {
 	padding: 12px;
@@ -2439,6 +2455,47 @@ input[type="radio"]:checked + .text {
 .burger-open .burger span {
 	background-color: #fff;
 }
+.sub {
+	width: 100%;
+}
 .subsub {
-	padding: 10px 20px;
+	/* padding: 10px 20px; */
+	width: 90%;
+	margin: 0 auto;
+	border: 1px solid #d3d4d1;
+	border-top: none;
+	margin-bottom: 10px;
+}
+.subsubsub {
+	/* padding: 10px 20px; */
+	width: 90%;
+	margin: 0 auto;
+	border: 1px solid #d3d4d1;
+	border-top: none;
+	margin-bottom: 10px;
+}
+.sub.opened > div {
+	background: #0e1b38;
+	color: #fff;
+}
+.sub.opened > div::after {
+	transform: rotate(180deg);
+	border-top-color: #fff;
+}
+.sub .opened {
+	background: #0e1b38;
+	color: #fff;
+}
+.sub .opened::after {
+	transform: rotate(180deg);
+	border-top-color: #fff;
+}
+.burger-open .burger::before {
+	transform: translateY(8px) rotate(45deg);
+}
+.burger-open .burger::after {
+	transform: translateY(-8px) rotate(-45deg);
+}
+.burger-open .burger span {
+	transform: scale(0);
 }

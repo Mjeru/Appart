@@ -553,9 +553,6 @@ $(document).ready(() => {
 		document.querySelector(".droped").click();
 		document.querySelector(".lang-block2-close").classList.toggle("disp");
 	};
-	let sliders = document.querySelectorAll(".owl-stage"),
-		nextslidelinks = document.querySelectorAll(".owl-next"),
-		prevslidelinks = document.querySelectorAll(".owl-prev");
 
 	// [].forEach.call(sliders, (el) => {
 	// 	console.log(el.childNodes.length + "длинна");
@@ -612,13 +609,17 @@ $(document).ready(() => {
 		document.querySelector(".nav-mobile").children[0].children,
 		(el) => {
 			el.children[0].onclick = (e) => {
+				console.log(e.target);
 				$(".subsub").addClass("pasive");
 				$(".subsub").removeClass("active");
 				e.target.parentNode.children[1].classList.remove("pasive");
 				e.target.parentNode.children[1].classList.add("active");
-
-				$(".pasive").slideUp();
-				$(".active").slideDown();
+				$(".sub").removeClass("opened");
+				if (!e.target.parentNode.classList.contains("opened")) {
+					!e.target.parentNode.classList.toggle("opened");
+				}
+				$(".pasive").slideUp(200);
+				$(".active").slideDown(200);
 				e.target.parentNode;
 
 				// [].forEach.call(e.target.parentNode.children, (el) => {
@@ -638,9 +639,12 @@ $(document).ready(() => {
 					$(".subsubsub").removeClass("subactive");
 					e.target.parentNode.children[1].classList.remove("subpasive");
 					e.target.parentNode.children[1].classList.add("subactive");
-
-					$(".subpasive").slideUp();
-					$(".subactive").slideDown();
+					$(".subsub").children().children().removeClass("opened");
+					if (!e.target.classList.contains("opened")) {
+						!e.target.classList.toggle("opened");
+					}
+					$(".subpasive").slideUp(100);
+					$(".subactive").slideDown(100);
 					e.target.parentNode;
 
 					// [].forEach.call(e.target.parentNode.children, (el) => {
@@ -657,14 +661,13 @@ $(document).ready(() => {
 	let burger = $(".burger-container");
 	burger.click((e) => {
 		burger.toggleClass("burger-open");
-		navMob.slideToggle();
+		navMob.slideToggle(200);
 	});
 
 	window.addEventListener("resize", () => {
 		if (document.body.clientWidth > 650) {
 			burger.removeClass("burger-open");
-			navMob.slideUp();
-			console.log(321);
+			navMob.slideUp(200);
 		}
 	});
 
