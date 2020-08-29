@@ -648,10 +648,10 @@
             
 		</header>
 
+        <a rel="nofollow" class="langlink"
+            ><span>ft²</span><span>$</span><div class="flag-icon ru"></div><span>ru</span></a
+        >
 			<div class="lang-block lclosed">
-				<a rel="nofollow" class="langlink"
-					><span>ft²</span><span>$</span><div class="flag-icon ru"></div><span>ru</span></a
-                >
                 
                <div class="lang-options">
                    <ul>
@@ -977,6 +977,8 @@
                     <label class="searcharea hidden">
                         <input type="checkbox" id="localsearch" name="localsearch" value="localsearch" >
                         <span>Искать в округе</span>
+                        <input type="text" id="#la" name="la" style="display: none;">
+                        <input type="text" id="#lo" name="lo" style="display: none;">
                     </label>
                 </label>
     				<select id="status" name="status" class="tostyle">
@@ -1072,13 +1074,13 @@
     				<div class="search__drop">
                         <a href="#" class="search__drop search__drop-link">Лучшее</a>
                         <ul class="sub__menu hidden dropdown-search price-drop ">
-                            <li>
+                            <li class="bestss">
                                 <label class="pricebox-label">
                                     <input type="checkbox" name="belowprice" class="pricebox bests" value="true">
                                     С&nbsp;ценой&nbsp;ниже&nbsp;рынка&nbsp;
                                 </label>
                             </li>
-                            <li>
+                            <li class="bestss">
                                 <label class="pricebox-label">
                                     <input type="checkbox" name="worth" class="pricebox bests" value="true">
                                     С&nbsp;выгодной&nbsp;окупаемостью
@@ -6049,13 +6051,19 @@
         </div> 
         <div class="popup-row">
             <div><span>Искать поблизости</span></div>
-           <select id="year" name="searchClose" class="tostyle">
-               <option value="hide">Нет</option>
-               <option value="2011">0.5км</option>
-               <option value="2012">1км</option>
-               <option value="2013">5км</option>
-               <option value="2014">10км</option>
-               <option value="2014">25км</option>
+            <label class="pricebox-label">
+                <input type="checkbox" id="searchProof" class="pricebox heightcorr2" value="true">
+                Разрешить геолокацию
+            </label>
+            <input type="text" id="#lafilt" name="la" style="display: none;">
+                        <input type="text" id="#lofilt" name="lo" style="display: none;">
+           <select id="searchClose" name="searchClose" class="tostyle">
+               <option value="">Нет</option>
+               <option value="0.5">0.5км</option>
+               <option value="1">1км</option>
+               <option value="5">5км</option>
+               <option value="10">10км</option>
+               <option value="25">25км</option>
             </select>
         </div>   
         <div class="popup-row">
@@ -6065,13 +6073,13 @@
                         <span class="tocenter">
                             Расстояние
                         </span>
-                            <select id="year" name="testselect" class="tostyle" name="distance">
-                                <option value="123">Нет</option>
-                                <option value="2011">0.5км</option>
-                                <option value="2012">1км</option>
-                                <option value="2013">5км</option>
-                                <option value="2014">10км</option>
-                                <option value="2014">25км</option>
+                            <select id="year" class="tostyle" name="distance">
+                                <option value="not">Нет</option>
+                                <option value="0.5">0.5км</option>
+                                <option value="1">1км</option>
+                                <option value="5">5км</option>
+                                <option value="10">10км</option>
+                                <option value="25">25км</option>
                             </select>
 
                             
